@@ -1,0 +1,250 @@
+RESULTS AND RECOMMENDATIONS: AT-HOME IRON-STATUS TEST
+Market-access and customer-fit analysis (slide-by-slide content brief)
+=====================================================================
+
+How to use: each section is one slide. HEADLINE = slide title. WHY = the evidence.
+DECISION = the business decision it supports. Figure/table references point to outputs/.
+Every number comes from the computed analysis tables. Do not round further or change values.
+
+Data: NHANES 2017-Mar 2020 (real, measured labs, n=10,546) | MEPS 2023 (real national survey,
+14,768 adults) | Synthea (fully synthetic EHR, 1,171 patients; workflow logic only).
+No number describes the performance of any actual test.
+
+
+---------------------------------------------------------------------
+SLIDE 1 - THE RECOMMENDED DECISION (executive summary)
+---------------------------------------------------------------------
+HEADLINE: Launch as an at-home screen-and-refer test for menstruating women, entering through athletes
+
+DECISION:
+  1. Launch direct-to-consumer for non-pregnant menstruating women 18-49.
+  2. Enter through athletes and highly active women (beachhead), then expand to all menstruating women.
+  3. A positive or borderline result routes to a confirmatory blood ferritin test (telehealth / retail lab).
+     The test screens and refers. It does not diagnose.
+  4. Set the ferritin cutoff (15 vs 30 ng/mL) from a validation study, not from market size.
+  5. Defer pregnancy, kidney disease and heart failure to later, clinician-supervised indications.
+  6. Add a subsidised / community-health channel for lower-income women after launch.
+
+WHY (one line each):
+  - 3.5M US women 20-44 have depleted iron but normal hemoglobin; today's workflow misses them.
+  - Need is 15-17% in menstruating and lower-income women vs 1% in men.
+  - Athletes: same need, more often hidden (non-anemic), most able to pay, most affected by symptoms.
+  - Young women delay care more and are less attached to a regular clinician: convenience sells.
+  - Cutoff choice changes the market 2.5x.
+
+
+---------------------------------------------------------------------
+SLIDE 2 - THE UNMET NEED  [Figure F01, Table T03]
+---------------------------------------------------------------------
+HEADLINE: 55% of women with depleted iron are not anemic
+
+WHY:
+  - 13.5% of non-pregnant US women 20-44 have depleted iron stores (ferritin <15 ng/mL), about 6.4M women.
+  - 55% of them have normal hemoglobin (95% CI 47.5-62.5%).
+  - That is 3.5M women (7.4% of the age group) whose deficiency is invisible to a hemoglobin/CBC check.
+  - At the broader ferritin <30 threshold: 11.9M women with low iron and no anemia.
+  - With an inflammation adjustment (CRP): 9.2M. The finding holds under every definition tested.
+
+DECISION IT SUPPORTS:
+  - The product-market gap exists: there is a large group that standard care does not catch.
+  - Position the test upstream of the CBC, as the trigger that sends someone for a ferritin test.
+
+
+---------------------------------------------------------------------
+SLIDE 3 - WHO HAS THE NEED  [Figure F02, Table T02]
+---------------------------------------------------------------------
+HEADLINE: Depleted iron concentrates in women of reproductive age
+
+WHY (share with ferritin <15 ng/mL, 95% CI):
+  - Lower-income women 18-49 ..... 16.5% (13.1-19.8)
+  - Menstruating women 18-49 ..... 15.3% (12.7-17.8), about 7.5M women: the largest market
+  - Non-pregnant women 18-49 ..... 13.9% (11.6-16.2)
+  - Highly active women 18-49 .... 13.2% (9.3-17.0)
+  - Pregnant women 20-44 ......... 24.2% (13.9-34.6), small sample (n=76)
+  - All non-pregnant adults ...... 4.9%
+  - Men 18+ ...................... 1.0%
+
+DECISION IT SUPPORTS:
+  - Target women 18-49. Men are not a market for this product.
+  - Menstruation is the core driver, so menstruating women are the core market.
+
+
+---------------------------------------------------------------------
+SLIDE 4 - WHY ATHLETES ARE THE BEACHHEAD  [Table T02]
+---------------------------------------------------------------------
+HEADLINE: Athletes have the same need, more hidden deficiency, and the most ability to pay
+
+WHY:
+  1. Same need: 13.2% of highly active women have depleted iron, the same as other women their age.
+  2. More often hidden: 62% of depleted, highly active women are NOT anemic, vs 50% of all women 18-49.
+     (Points the same way but not statistically significant: CIs 47-78% vs 44-57%.) A blood count is the
+     least likely way to find their deficiency.
+  3. Able and willing to pay:
+     - 44% have household income at least 4x the poverty line (vs 35% of women 18-49)
+     - only 8.6% are uninsured (vs 14.6%), the best coverage of any segment
+  4. The symptoms cost them more: non-anemic iron deficiency shows up as fatigue and lower endurance.
+     A sedentary person who is tired can live with it. An athlete who has to train and compete notices
+     it and acts on it. That makes the problem visible and urgent, and makes them more willing to pay.
+     (Domain rationale, consistent with sports-medicine evidence; this data does not measure
+     performance or willingness to pay, so it needs a WTP study.)
+  5. Reachable: teams, clubs, coaches, collegiate programs and sports-medicine clinics make them easy
+     to find, and early wins become case studies.
+
+DECISION IT SUPPORTS:
+  - Enter through athletes and highly active women at premium DTC pricing.
+  - Use team/club partnerships and performance channels.
+  - Expand to all menstruating women 18-49 once proven.
+
+
+---------------------------------------------------------------------
+SLIDE 5 - THE CUTOFF IS A STRATEGIC DECISION  [Figure F04, Table T04]
+---------------------------------------------------------------------
+HEADLINE: Flagging ferritin <30 makes the target group 2.5x larger
+
+WHY (non-pregnant women 20-44):
+  - ferritin <15 ng/mL (WHO depleted stores): 13.5%
+  - ferritin <30 ng/mL: 33.4%
+  - ferritin <50 ng/mL: 55.1%
+  - A higher cutoff grows the market but sends more people to confirmatory testing and adds false positives.
+
+DECISION IT SUPPORTS:
+  - Do not pick the cutoff for market size.
+  - Run a validation study against blood ferritin at both 15 and 30 ng/mL, choose the cutoff on
+    accuracy, then size the market. This is the first gating decision before launch.
+
+
+---------------------------------------------------------------------
+SLIDE 6 - NEED VERSUS ACCESS  [Figure F03, Table T02]
+---------------------------------------------------------------------
+HEADLINE: Lower-income women have the highest need and the weakest coverage
+
+WHY:
+  - Lower-income women: 16.5% depleted iron and 27.4% uninsured (vs 13.3% of all adults).
+  - They are the only segment in the high-need, low-access quadrant.
+  - Highly active women sit at the opposite corner: high need, 8.6% uninsured.
+
+DECISION IT SUPPORTS:
+  - DTC pricing will not reach the highest-need group.
+  - After launch, add a second channel: community health centers, Medicaid managed care, or employer
+    programs. Build the case on cost per case found versus lab-first screening.
+
+
+---------------------------------------------------------------------
+SLIDE 7 - WHERE THE CURRENT PATHWAY FAILS  [Table T06]
+---------------------------------------------------------------------
+HEADLINE: Young women are less connected to care, which makes convenience the value proposition
+
+WHY (MEPS 2023):
+  - Women 18-49 with a usual source of care: 64.7% (vs 70.6% of all adults)
+  - Women 18-49 who delayed medical care: 10.0% (vs 7.2% of all adults)
+  - Women 18-49 who couldn't afford care: 5.4% (vs 4.0% of all adults)
+
+DECISION IT SUPPORTS:
+  - A home test removes the first visit for the people least likely to make it.
+  - Build the product with a one-step result → telehealth consult → lab order flow.
+
+
+---------------------------------------------------------------------
+SLIDE 8 - DIAGNOSED AND CHRONIC PATIENTS ARE A DIFFERENT CHANNEL  [Figure F06, Table T06]
+---------------------------------------------------------------------
+HEADLINE: Diagnosed patients already see clinicians about twice as often
+
+WHY (mean office visits per year):
+  - All adults 7.3 | Anemia diagnosis 14.8 | Fatigue/dizziness/hair loss 14.8 | Heart failure 16.4
+    | Kidney disease 23.1 (small sample)
+  - For them the problem is not getting to a clinician; it is that no one orders a ferritin test.
+
+DECISION IT SUPPORTS:
+  - These patients are reached through clinicians, not DTC. That is a later, clinician-recommended
+    channel, not part of the first launch.
+
+
+---------------------------------------------------------------------
+SLIDE 9 - CHRONIC CONDITIONS NEED A DIFFERENT PRODUCT  [Figure F07, Tables T02/T07]
+---------------------------------------------------------------------
+HEADLINE: Heart failure and kidney disease are majority publicly insured, with a different iron definition
+
+WHY:
+  - Heart failure: 65% public-only insurance; kidney disease: 60% (small sample).
+  - About half of heart-failure adults (51%) are iron-deficient by the heart-failure definition
+    (ferritin <100, or 100-299 with transferrin saturation <20%). Ferritin <15 misses them (2.5%).
+  - Annual out-of-pocket spend: heart failure $3,782 vs $1,106 for all adults.
+
+DECISION IT SUPPORTS:
+  - Do not pursue these at launch. They need a test that reads higher ferritin ranges and works under
+    inflammation, plus Medicare/Medicaid-grade evidence. Treat it as a future monitoring indication.
+
+
+---------------------------------------------------------------------
+SLIDE 10 - WHERE THE TEST SITS IN CARE  [Figure F08, Table T09; synthetic data]
+---------------------------------------------------------------------
+HEADLINE: 97% of target-condition visits are routine ambulatory or wellness visits
+
+WHY (Synthea synthetic EHR, illustration of workflow logic):
+  - 73.7% ambulatory + 23.4% wellness visits; 0.1% inpatient.
+  - Only 6% of synthetic anemia patients had a blood count in the year before diagnosis.
+  - The synthetic records contain no ferritin tests at all.
+
+DECISION IT SUPPORTS:
+  - The confirmatory hand-off belongs in primary care, telehealth or retail labs, not hospitals.
+  - Next step: repeat this pathway analysis on real claims data to measure the actual delay to diagnosis.
+
+
+---------------------------------------------------------------------
+SLIDE 11 - HYPOTHESIS SCORECARD
+---------------------------------------------------------------------
+  H1 Undetected early deficiency ......... SUPPORTED (55% of depleted women not anemic; 3.5M)
+  H2 Segment concentration ............... SUPPORTED, REFINED (menstruation and income drive prevalence;
+                                           athletes: equal need, more hidden, most able to pay)
+  H3 Workflow friction ................... PARTIALLY SUPPORTED (young women delay care, less usual care;
+                                           test-sequence delay needs real claims)
+  H4 Hybrid home-screen + lab model ...... CONSISTENT, NOT PROVEN (needs pilot / WTP study)
+  H5 Different channels by segment ....... SUPPORTED (coverage and income differ sharply)
+  H6 Value depends on placement .......... NOT TESTABLE HERE (needs test performance + outcomes)
+
+
+---------------------------------------------------------------------
+SLIDE 12 - RECOMMENDATIONS AND NEXT ACTIONS
+---------------------------------------------------------------------
+Priority 1 (0-12 months)
+  1. Validation study vs blood ferritin at 15 and 30 ng/mL; choose the cutoff on accuracy. [Clinical]
+  2. Launch the DTC screen-and-refer kit for menstruating women 18-49. [Product + clinical]
+  3. Athlete beachhead: team/club/sports-medicine partnerships, premium positioning,
+     willingness-to-pay + usability study. [Commercial]
+  4. Telehealth / retail-lab partner for result → consult → lab order. Track % of positives who
+     complete confirmatory testing. [Commercial]
+Priority 2 (6-24 months)
+  5. Community-health / Medicaid / employer pilot for lower-income women; measure cost per case
+     found. [Market access]
+  6. Replicate the pathway analysis on real claims or EHR data. [Analytics]
+Priority 3 (18+ months)
+  7. Pregnancy: clinician-ordered adjunct only, after validation in pregnancy. [Clinical/regulatory]
+  8. Heart failure / kidney disease: future monitoring indication; requires performance at higher
+     ferritin ranges and under inflammation. [Clinical/regulatory]
+
+
+---------------------------------------------------------------------
+SLIDE 13 - WHAT WE COMMIT TO, AND WHAT WE DON'T
+---------------------------------------------------------------------
+COMMIT TO:
+  - A consumer brand for women 18-49, entered through athletes
+  - A confirmatory-lab partnership built into the product
+  - A validation study before any accuracy claim
+  - A second, subsidised channel for lower-income women after launch
+DO NOT:
+  - Build a clinician sales force for the first launch
+  - Claim to replace a CBC, blood ferritin or a clinician's evaluation
+  - Pursue Medicare / kidney / heart-failure reimbursement at launch
+  - Price only for affluent buyers and ignore the highest-need group
+
+
+---------------------------------------------------------------------
+SLIDE 14 - LIMITATIONS (keep on the slide)
+---------------------------------------------------------------------
+  - No test performance data: nothing here estimates the accuracy or clinical value of any product.
+  - NHANES is a one-time snapshot: low ferritin today does not prove future anemia. Segments are
+    self-reported; the pregnancy sample is small (n=76).
+  - Athlete willingness-to-pay and performance impact are reasoned, not measured. They need a WTP study.
+  - MEPS conditions are self-reported; several segments have fewer than 100 people (flagged).
+  - Synthea is synthetic: it shows workflow logic, not real-world rates. Names are pseudonyms.
+  - Segments overlap and are not additive; population counts are survey estimates with sampling error.

@@ -1,0 +1,11 @@
+payer_id,payer_name,no_insurance_flag,unique_target_patients,share_of_target_patients_pct,ownership_categories,earliest_latest_period_start_year,latest_period_end_year,payer_mix_rank
+7caa7254-5050-3b5e-9eae-bd5ea30e809c,Medicare,0,143,25.63,3,1912,2020,1
+7c4411ce-02f1-39b5-b9ec-dfbea9ad3c1a,Medicaid,0,72,12.9,3,1943,2020,2
+6e2f1a2d-27bd-3701-8d08-dae202c58632,Commercial plan E,0,70,12.54,3,1911,2020,3
+4d71f845-a6a9-3c39-b242-14d25ef86a8d,Commercial plan C,0,50,8.96,3,1959,2019,4
+42c4fca7-f8a9-3cd1-982a-dd9751bf3e2a,Commercial plan B,0,49,8.78,3,1941,2019,5
+047f6ec3-6215-35eb-9608-f9dda363a44c,Commercial plan A,0,49,8.78,3,1956,2019,5
+d47b3510-2895-3b70-9897-342d681c769d,Commercial plan F,0,42,7.53,3,1917,2019,6
+5059a55e-5d6e-34d1-b6cb-d83d16e57bcf,Commercial plan D,0,36,6.45,3,1944,2020,7
+b1c428d6-4f07-31e0-90f0-68ffa6ff8c76,NO_INSURANCE,1,36,6.45,3,1911,2018,7
+b3221cfc-24fb-339e-823d-bc4136cbc4ed,Dual Eligible,0,11,1.97,3,1910,2020,8

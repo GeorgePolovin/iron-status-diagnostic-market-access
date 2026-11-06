@@ -1,0 +1,15 @@
+state,county,patient_count,patient_share_pct,patient_volume_rank
+Massachusetts,Middlesex County,255,21.78,1
+Massachusetts,Worcester County,150,12.81,2
+Massachusetts,Suffolk County,132,11.27,3
+Massachusetts,Norfolk County,128,10.93,4
+Massachusetts,Essex County,115,9.82,5
+Massachusetts,Bristol County,105,8.97,6
+Massachusetts,Hampden County,80,6.83,7
+Massachusetts,Plymouth County,78,6.66,8
+Massachusetts,Barnstable County,47,4.01,9
+Massachusetts,Hampshire County,35,2.99,10
+Massachusetts,Berkshire County,24,2.05,11
+Massachusetts,Franklin County,15,1.28,12
+Massachusetts,Dukes County,5,0.43,13
+Massachusetts,Nantucket County,2,0.17,14

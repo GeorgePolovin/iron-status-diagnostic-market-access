@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="486pt" viewBox="0 0 864 486" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T13:26:02.062420</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 486 
+L 864 486 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 311.04 379.08 
+L 794.88 379.08 
+L 794.88 106.92 
+L 311.04 106.92 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 311.04 379.08 
+L 311.04 106.92 
+" clip-path="url(#pab23e70710)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="311.04" y="394.956953" transform="rotate(-0 311.04 394.956953)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 407.808 379.08 
+L 407.808 106.92 
+" clip-path="url(#pab23e70710)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="407.808" y="394.956953" transform="rotate(-0 407.808 394.956953)">20%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 504.576 379.08 
+L 504.576 106.92 
+" clip-path="url(#pab23e70710)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="504.576" y="394.956953" transform="rotate(-0 504.576 394.956953)">40%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 601.344 379.08 
+L 601.344 106.92 
+" clip-path="url(#pab23e70710)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="601.344" y="394.956953" transform="rotate(-0 601.344 394.956953)">60%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 698.112 379.08 
+L 698.112 106.92 
+" clip-path="url(#pab23e70710)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="698.112" y="394.956953" transform="rotate(-0 698.112 394.956953)">80%</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 794.88 379.08 
+L 794.88 106.92 
+" clip-path="url(#pab23e70710)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="794.88" y="394.956953" transform="rotate(-0 794.88 394.956953)">100%</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="552.96" y="411.957969" transform="rotate(-0 552.96 411.957969)">Weighted share of non-pregnant women 20-44</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="305.04" y="145.79756" transform="rotate(-0 305.04 145.79756)">Depleted stores, NOT anemic</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="305.04" y="214.145124" transform="rotate(-0 305.04 214.145124)">Depleted stores + anemia</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="305.04" y="282.492688" transform="rotate(-0 305.04 282.492688)">Anemia, ferritin &gt;=15</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="305.04" y="350.840252" transform="rotate(-0 305.04 350.840252)">Neither</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 311.04 119.290909 
+L 346.892544 119.290909 
+L 346.892544 161.666399 
+L 311.04 161.666399 
+z
+" clip-path="url(#pab23e70710)" style="fill: #008c99"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 311.04 187.638473 
+L 340.360704 187.638473 
+L 340.360704 230.013963 
+L 311.04 230.013963 
+z
+" clip-path="url(#pab23e70710)" style="fill: #d9681f"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 311.04 255.986037 
+L 329.280768 255.986037 
+L 329.280768 298.361527 
+L 311.04 298.361527 
+z
+" clip-path="url(#pab23e70710)" style="fill: #3a5bc7"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 311.04 324.333601 
+L 711.465984 324.333601 
+L 711.465984 366.709091 
+L 311.04 366.709091 
+z
+" clip-path="url(#pab23e70710)" style="fill: #b8c4ce"/>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="351.730944" y="143.884552" transform="rotate(-0 351.730944 143.884552)">7.4%  |  3.5M women</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="345.199104" y="212.232116" transform="rotate(-0 345.199104 212.232116)">6.1%  |  2.9M women</text>
+   </g>
+   <g id="text_14">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="334.119168" y="280.57968" transform="rotate(-0 334.119168 280.57968)">3.8%  |  1.8M women</text>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="706.627584" y="348.927244" transform="rotate(-0 706.627584 348.927244)">82.8%  |  39.1M women</text>
+   </g>
+  </g>
+  <g id="text_16">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="34.56" y="40.256719" transform="rotate(-0 34.56 40.256719)">F01  55% of women with depleted iron are not anemic</text>
+  </g>
+  <g id="text_17">
+   <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556b7a" x="34.56" y="71.387812" transform="rotate(-0 34.56 71.387812)">3.5M US women 20-44 have ferritin &lt;15 ng/mL with normal hemoglobin (95% CI of share: 47-63%)</text>
+  </g>
+  <g id="text_18">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556b7a" transform="translate(34.56 452.267344)">Source: NHANES 2017-March 2020 pre-pandemic (CDC/NCHS), MEC exam weights. Ferritin &lt;15 ng/mL = WHO depleted iron stores.</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556b7a" transform="translate(34.56 466.967344)">Anemia = hemoglobin &lt;12.0 g/dL (WHO). Hemoglobin-triggered workflows miss this group.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pab23e70710">
+   <rect x="311.04" y="106.92" width="483.84" height="272.16"/>
+  </clipPath>
+ </defs>
+</svg>

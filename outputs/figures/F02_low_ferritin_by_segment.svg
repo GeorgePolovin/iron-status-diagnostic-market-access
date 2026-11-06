@@ -1,0 +1,413 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="486pt" viewBox="0 0 864 486" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T13:26:02.579460</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 486 
+L 864 486 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 285.12 403.38 
+L 803.52 403.38 
+L 803.52 92.34 
+L 285.12 92.34 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 285.12 403.38 
+L 285.12 92.34 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="285.12" y="419.256953" transform="rotate(-0 285.12 419.256953)">0%</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 393.12 403.38 
+L 393.12 92.34 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="393.12" y="419.256953" transform="rotate(-0 393.12 419.256953)">10%</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 501.12 403.38 
+L 501.12 92.34 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="501.12" y="419.256953" transform="rotate(-0 501.12 419.256953)">20%</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 609.12 403.38 
+L 609.12 92.34 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="609.12" y="419.256953" transform="rotate(-0 609.12 419.256953)">30%</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 717.12 403.38 
+L 717.12 92.34 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="717.12" y="419.256953" transform="rotate(-0 717.12 419.256953)">40%</text>
+     </g>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="544.32" y="436.257969" transform="rotate(-0 544.32 436.257969)">Weighted % with ferritin &lt;15 ng/mL (dot) and 95% CI (line)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_11"/>
+     <g id="text_7">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="279.12" y="111.417166" transform="rotate(-0 279.12 111.417166)">All non-pregnant adults 18+</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_12"/>
+     <g id="text_8">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="279.12" y="142.83484" transform="rotate(-0 279.12 142.83484)">Men 18+</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_13"/>
+     <g id="text_9">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="279.12" y="174.253022" transform="rotate(-0 279.12 174.253022)">Non-pregnant women 18-49</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_14"/>
+     <g id="text_10">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="279.12" y="205.671712" transform="rotate(-0 279.12 205.671712)">Menstruating women 18-49</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_15"/>
+     <g id="text_11">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="279.12" y="237.089893" transform="rotate(-0 279.12 237.089893)">Highly active women 18-49</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_16"/>
+     <g id="text_12">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="279.12" y="268.508075" transform="rotate(-0 279.12 268.508075)">Lower-income women 18-49</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17"/>
+     <g id="text_13">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="279.12" y="299.926257" transform="rotate(-0 279.12 299.926257)">Highly active men 18+</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_18"/>
+     <g id="text_14">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="279.12" y="331.343931" transform="rotate(-0 279.12 331.343931)">Pregnant women 20-44</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_19"/>
+     <g id="text_15">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="279.12" y="362.762621" transform="rotate(-0 279.12 362.762621)">Adults with weak/failing kidneys</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_20"/>
+     <g id="text_16">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="279.12" y="394.180803" transform="rotate(-0 279.12 394.180803)">Adults with heart failure</text>
+     </g>
+    </g>
+   </g>
+   <g id="line2d_21">
+    <path d="M 331.538541 106.478182 
+L 344.765325 106.478182 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #b8c4ce; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_22">
+    <path d="M 290.642476 137.896364 
+L 300.605955 137.896364 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #b8c4ce; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_23">
+    <path d="M 410.516532 169.314545 
+L 459.926486 169.314545 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #b8c4ce; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_24">
+    <path d="M 421.933828 200.732727 
+L 477.754241 200.732727 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #008c99; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_25">
+    <path d="M 385.330572 232.150909 
+L 469.028703 232.150909 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #008c99; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_26">
+    <path d="M 426.385683 263.569091 
+L 499.313432 263.569091 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #008c99; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_27">
+    <path d="M 285.384652 294.987273 
+L 292.195697 294.987273 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #b8c4ce; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_28">
+    <path d="M 434.766252 326.405455 
+L 658.517554 326.405455 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #d9681f; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_29">
+    <path d="M 291.315989 357.823636 
+L 341.933236 357.823636 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #d9681f; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="line2d_30">
+    <path d="M 295.060512 389.241818 
+L 328.74543 389.241818 
+" clip-path="url(#p348d39d0b7)" style="fill: none; stroke: #d9681f; stroke-width: 2.5; stroke-linecap: round"/>
+   </g>
+   <g id="PathCollection_1">
+    <defs>
+     <path id="m416c46a557" d="M 0 4.743416 
+C 1.257969 4.743416 2.464584 4.24362 3.354102 3.354102 
+C 4.24362 2.464584 4.743416 1.257969 4.743416 0 
+C 4.743416 -1.257969 4.24362 -2.464584 3.354102 -3.354102 
+C 2.464584 -4.24362 1.257969 -4.743416 0 -4.743416 
+C -1.257969 -4.743416 -2.464584 -4.24362 -3.354102 -3.354102 
+C -4.24362 -2.464584 -4.743416 -1.257969 -4.743416 0 
+C -4.743416 1.257969 -4.24362 2.464584 -3.354102 3.354102 
+C -2.464584 4.24362 -1.257969 4.743416 0 4.743416 
+z
+" style="stroke: #ffffff; stroke-width: 1.5"/>
+    </defs>
+    <g clip-path="url(#p348d39d0b7)">
+     <use xlink:href="#m416c46a557" x="338.04" y="106.478182" style="fill: #b8c4ce; stroke: #ffffff; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="353.405325" y="109.595369" transform="rotate(-0 353.405325 109.595369)">4.9%  (n=8,279)</text>
+   </g>
+   <g id="PathCollection_2">
+    <g clip-path="url(#p348d39d0b7)">
+     <use xlink:href="#m416c46a557" x="295.92" y="137.896364" style="fill: #b8c4ce; stroke: #ffffff; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="309.245955" y="141.013551" transform="rotate(-0 309.245955 141.013551)">1.0%  (n=4,056)</text>
+   </g>
+   <g id="PathCollection_3">
+    <g clip-path="url(#p348d39d0b7)">
+     <use xlink:href="#m416c46a557" x="435.24" y="169.314545" style="fill: #b8c4ce; stroke: #ffffff; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="468.566486" y="172.431733" transform="rotate(-0 468.566486 172.431733)">13.9%  (n=2,053)</text>
+   </g>
+   <g id="PathCollection_4">
+    <defs>
+     <path id="m69d9b65bb8" d="M 0 4.743416 
+C 1.257969 4.743416 2.464584 4.24362 3.354102 3.354102 
+C 4.24362 2.464584 4.743416 1.257969 4.743416 0 
+C 4.743416 -1.257969 4.24362 -2.464584 3.354102 -3.354102 
+C 2.464584 -4.24362 1.257969 -4.743416 0 -4.743416 
+C -1.257969 -4.743416 -2.464584 -4.24362 -3.354102 -3.354102 
+C -4.24362 -2.464584 -4.743416 -1.257969 -4.743416 0 
+C -4.743416 1.257969 -4.24362 2.464584 -3.354102 3.354102 
+C -2.464584 4.24362 -1.257969 4.743416 0 4.743416 
+z
+" style="stroke: #ffffff; stroke-width: 1.5"/>
+    </defs>
+    <g clip-path="url(#p348d39d0b7)">
+     <use xlink:href="#m69d9b65bb8" x="450.36" y="200.732727" style="fill: #008c99; stroke: #ffffff; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="486.394241" y="203.849915" transform="rotate(-0 486.394241 203.849915)">15.3%  (n=1,651)</text>
+   </g>
+   <g id="PathCollection_5">
+    <g clip-path="url(#p348d39d0b7)">
+     <use xlink:href="#m69d9b65bb8" x="427.68" y="232.150909" style="fill: #008c99; stroke: #ffffff; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="477.668703" y="235.268097" transform="rotate(-0 477.668703 235.268097)">13.2%  (n=368)</text>
+   </g>
+   <g id="PathCollection_6">
+    <g clip-path="url(#p348d39d0b7)">
+     <use xlink:href="#m69d9b65bb8" x="463.32" y="263.569091" style="fill: #008c99; stroke: #ffffff; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="507.953432" y="266.686278" transform="rotate(-0 507.953432 266.686278)">16.5%  (n=469)</text>
+   </g>
+   <g id="PathCollection_7">
+    <g clip-path="url(#p348d39d0b7)">
+     <use xlink:href="#m416c46a557" x="288.36" y="294.987273" style="fill: #b8c4ce; stroke: #ffffff; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="300.835697" y="298.10446" transform="rotate(-0 300.835697 298.10446)">0.3%  (n=800)</text>
+   </g>
+   <g id="PathCollection_8">
+    <defs>
+     <path id="m2814e1656e" d="M 0 4.743416 
+C 1.257969 4.743416 2.464584 4.24362 3.354102 3.354102 
+C 4.24362 2.464584 4.743416 1.257969 4.743416 0 
+C 4.743416 -1.257969 4.24362 -2.464584 3.354102 -3.354102 
+C 2.464584 -4.24362 1.257969 -4.743416 0 -4.743416 
+C -1.257969 -4.743416 -2.464584 -4.24362 -3.354102 -3.354102 
+C -4.24362 -2.464584 -4.743416 -1.257969 -4.743416 0 
+C -4.743416 1.257969 -4.24362 2.464584 -3.354102 3.354102 
+C -2.464584 4.24362 -1.257969 4.743416 0 4.743416 
+z
+" style="stroke: #ffffff; stroke-width: 1.5"/>
+    </defs>
+    <g clip-path="url(#p348d39d0b7)">
+     <use xlink:href="#m2814e1656e" x="546.48" y="326.405455" style="fill: #d9681f; stroke: #ffffff; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="667.157554" y="329.522642" transform="rotate(-0 667.157554 329.522642)">24.2%  (n=76)</text>
+   </g>
+   <g id="PathCollection_9">
+    <g clip-path="url(#p348d39d0b7)">
+     <use xlink:href="#m2814e1656e" x="316.44" y="357.823636" style="fill: #d9681f; stroke: #ffffff; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="350.573236" y="360.940824" transform="rotate(-0 350.573236 360.940824)">2.9%  (n=331)</text>
+   </g>
+   <g id="PathCollection_10">
+    <g clip-path="url(#p348d39d0b7)">
+     <use xlink:href="#m2814e1656e" x="312.12" y="389.241818" style="fill: #d9681f; stroke: #ffffff; stroke-width: 1.5"/>
+    </g>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="337.38543" y="392.359006" transform="rotate(-0 337.38543 392.359006)">2.5%  (n=297)</text>
+   </g>
+   <g id="legend_1">
+    <g id="line2d_31">
+     <defs>
+      <path id="m741ac8aee6" d="M 0 4.5 
+C 1.193414 4.5 2.338109 4.025852 3.181981 3.181981 
+C 4.025852 2.338109 4.5 1.193414 4.5 0 
+C 4.5 -1.193414 4.025852 -2.338109 3.181981 -3.181981 
+C 2.338109 -4.025852 1.193414 -4.5 0 -4.5 
+C -1.193414 -4.5 -2.338109 -4.025852 -3.181981 -3.181981 
+C -4.025852 -2.338109 -4.5 -1.193414 -4.5 0 
+C -4.5 1.193414 -4.025852 2.338109 -3.181981 3.181981 
+C -2.338109 4.025852 -1.193414 4.5 0 4.5 
+z
+" style="stroke: #008c99"/>
+     </defs>
+     <g>
+      <use xlink:href="#m741ac8aee6" x="607.883438" y="351.740508" style="fill: #008c99; stroke: #008c99"/>
+     </g>
+    </g>
+    <g id="text_27">
+     <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="628.583438" y="355.765508" transform="rotate(-0 628.583438 355.765508)">Priority (consumer) segment</text>
+    </g>
+    <g id="line2d_32">
+     <defs>
+      <path id="m78de8a5ae9" d="M 0 4.5 
+C 1.193414 4.5 2.338109 4.025852 3.181981 3.181981 
+C 4.025852 2.338109 4.5 1.193414 4.5 0 
+C 4.5 -1.193414 4.025852 -2.338109 3.181981 -3.181981 
+C 2.338109 -4.025852 1.193414 -4.5 0 -4.5 
+C -1.193414 -4.5 -2.338109 -4.025852 -3.181981 -3.181981 
+C -4.025852 -2.338109 -4.5 -1.193414 -4.5 0 
+C -4.5 1.193414 -4.025852 2.338109 -3.181981 3.181981 
+C -2.338109 4.025852 -1.193414 4.5 0 4.5 
+z
+" style="stroke: #d9681f"/>
+     </defs>
+     <g>
+      <use xlink:href="#m78de8a5ae9" x="607.883438" y="368.991406" style="fill: #d9681f; stroke: #d9681f"/>
+     </g>
+    </g>
+    <g id="text_28">
+     <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="628.583438" y="373.016406" transform="rotate(-0 628.583438 373.016406)">Clinician-supervised</text>
+    </g>
+    <g id="line2d_33">
+     <defs>
+      <path id="mc291f04fd5" d="M 0 4.5 
+C 1.193414 4.5 2.338109 4.025852 3.181981 3.181981 
+C 4.025852 2.338109 4.5 1.193414 4.5 0 
+C 4.5 -1.193414 4.025852 -2.338109 3.181981 -3.181981 
+C 2.338109 -4.025852 1.193414 -4.5 0 -4.5 
+C -1.193414 -4.5 -2.338109 -4.025852 -3.181981 -3.181981 
+C -4.025852 -2.338109 -4.5 -1.193414 -4.5 0 
+C -4.5 1.193414 -4.025852 2.338109 -3.181981 3.181981 
+C -2.338109 4.025852 -1.193414 4.5 0 4.5 
+z
+" style="stroke: #b8c4ce"/>
+     </defs>
+     <g>
+      <use xlink:href="#mc291f04fd5" x="607.883438" y="386.242305" style="fill: #b8c4ce; stroke: #b8c4ce"/>
+     </g>
+    </g>
+    <g id="text_29">
+     <text style="font-size: 11.5px; font-family: 'DejaVu Sans'; text-anchor: start" x="628.583438" y="390.267305" transform="rotate(-0 628.583438 390.267305)">Reference / comparison</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_30">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="34.56" y="40.256719" transform="rotate(-0 34.56 40.256719)">F02  Depleted iron concentrates in women of reproductive age</text>
+  </g>
+  <g id="text_31">
+   <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556b7a" x="34.56" y="71.387812" transform="rotate(-0 34.56 71.387812)">Menstruating, lower-income and pregnant women carry the highest prevalence; men are near 1%</text>
+  </g>
+  <g id="text_32">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556b7a" transform="translate(34.56 452.267344)">Source: NHANES 2017-March 2020 pre-pandemic (CDC/NCHS), MEC exam weights. Ferritin &lt;15 ng/mL = WHO depleted iron stores.</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556b7a" transform="translate(34.56 466.967344)">Segments overlap. Pregnant n=76 (wide CI). In CKD/heart failure, ferritin &lt;15 understates deficiency (see T02 chronic-disease definition).</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p348d39d0b7">
+   <rect x="285.12" y="92.34" width="518.4" height="311.04"/>
+  </clipPath>
+ </defs>
+</svg>

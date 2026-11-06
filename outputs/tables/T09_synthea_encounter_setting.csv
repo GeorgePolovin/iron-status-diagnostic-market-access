@@ -1,0 +1,5 @@
+encounter_class,target_condition_encounters,unique_target_patients,organizations,providers,target_encounters_with_linked_cbc_observation,target_encounters_with_linked_cbc_observation_pct,target_encounters_with_iron_medication,share_of_target_condition_encounters_pct
+ambulatory,842,376,69,69,2,0.24,0,73.67
+wellness,268,253,226,226,20,7.46,0,23.45
+outpatient,32,30,25,25,2,6.25,0,2.8
+inpatient,1,1,1,1,0,0.0,0,0.09

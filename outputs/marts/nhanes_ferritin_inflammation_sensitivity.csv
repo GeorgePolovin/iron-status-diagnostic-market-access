@@ -1,0 +1,4 @@
+analysis_order,population_segment,analysis_approach,unweighted_denominator,unweighted_flagged_n,weighted_flagged_pct,weighted_flagged_population_millions
+1,Non-pregnant females 20-44,"Primary: ferritin <15, all CRP statuses",1517,253,13.47,6.37
+2,Non-pregnant females 20-44,QC subset: ferritin <15 among CRP <5,1113,194,14.14,4.97
+3,Non-pregnant females 20-44,Sensitivity: WHO CRP-only inflammation-aware ferritin,1501,454,26.63,12.49

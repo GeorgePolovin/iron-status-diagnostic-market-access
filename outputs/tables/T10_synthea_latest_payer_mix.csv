@@ -1,0 +1,11 @@
+payer_name,unique_target_patients,share_of_target_patients_pct
+Medicare,143,25.63
+Medicaid,72,12.9
+Commercial plan E,70,12.54
+Commercial plan C,50,8.96
+Commercial plan B,49,8.78
+Commercial plan A,49,8.78
+Commercial plan F,42,7.53
+Commercial plan D,36,6.45
+NO_INSURANCE,36,6.45
+Dual Eligible,11,1.97

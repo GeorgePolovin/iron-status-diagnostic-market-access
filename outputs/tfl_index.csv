@@ -1,0 +1,25 @@
+output,type,file,title,population,source
+T01,Table,outputs/tables/T01_analysis_population_disposition.csv,Analysis population disposition by data source,All sources,SQL analytics layer
+T02,Table,outputs/tables/T02_nhanes_iron_status_by_risk_segment.csv,"Low iron stores, anemia and access by risk segment (95% CI)","NHANES adults 18+, segments overlap",mart.nhanes_risk_segment_summary + design-based CIs
+T03,Table,outputs/tables/T03_nhanes_low_ferritin_without_anemia.csv,Low ferritin without anemia: primary and sensitivity definitions,"NHANES non-pregnant women 20-44 (n=1,517)",mart.nhanes_low_ferritin_without_anemia_summary
+T04,Table,outputs/tables/T04_nhanes_ferritin_threshold_sensitivity.csv,"Share below ferritin thresholds of 15, 30 and 50 ng/mL",NHANES adults 18+,mart.nhanes_ferritin_threshold_by_segment
+T05,Table,outputs/tables/T05_nhanes_inflammation_sensitivity.csv,Inflammation (CRP) sensitivity of the low-ferritin estimate,NHANES non-pregnant women 20-44,mart.nhanes_ferritin_inflammation_sensitivity
+F01,Figure,outputs/figures/F01_iron_anemia_stage_distribution.png,Iron/anemia stage distribution,NHANES non-pregnant women 20-44,mart.nhanes_iron_status_stage_distribution
+F02,Figure,outputs/figures/F02_low_ferritin_by_segment.png,Ferritin <15 prevalence by segment with 95% CI,NHANES adults 18+,T02
+F03,Figure,outputs/figures/F03_need_vs_access.png,Need vs access quadrant,NHANES adults 18+,T02
+F04,Figure,outputs/figures/F04_threshold_sensitivity.png,Ferritin threshold sensitivity,NHANES adults 18+,T04
+F05,Figure,outputs/figures/F05_ferritin_distribution.png,"Ferritin distribution, women vs men",NHANES,analytics layer
+L01,Listing,outputs/listings/L01_nhanes_low_ferritin_without_anemia_participants.csv,Participants with ferritin <15 ng/mL and hemoglobin >=12 g/dL,NHANES non-pregnant women 20-44,analytics.nhanes_early_iron_depletion_flags
+T06,Table,outputs/tables/T06_meps_utilization_access_by_segment.csv,Health-care utilization and access barriers by iron-pathway segment,"MEPS adults 18+, 2023",mart.meps_utilization_access_by_segment
+T07,Table,outputs/tables/T07_meps_insurance_oop_by_segment.csv,"Insurance coverage, income and out-of-pocket burden by segment","MEPS adults 18+, 2023",mart.meps_insurance_oop_by_segment
+F06,Figure,outputs/figures/F06_meps_office_visits.png,Office visits by segment,MEPS adults 18+,T06
+F07,Figure,outputs/figures/F07_meps_coverage_mix.png,Coverage mix by segment,MEPS adults 18+,T07
+T08,Table,outputs/tables/T08_synthea_risk_segment_opportunity.csv,"Synthetic target cohort: segments, encounters and pre/post-diagnosis pathway",Synthea target cohort (n=563),mart.risk_segment_clinical_opportunity + utilization_pathway_by_segment
+T09,Table,outputs/tables/T09_synthea_encounter_setting.csv,Care setting of target-condition encounters,Synthea target cohort,mart.target_condition_encounter_setting
+T10,Table,outputs/tables/T10_synthea_latest_payer_mix.csv,Latest recorded payer mix,Synthea target patients with payer history (n=558),mart.latest_recorded_payer_mix
+T11,Table,outputs/tables/T11_synthea_top_organizations.csv,Top 15 synthetic organizations by target-patient reach,Synthea target cohort,mart.organization_opportunity
+T12,Table,outputs/tables/T12_synthea_dashboard_kpis.csv,Synthetic pathway KPI summary,Synthea target cohort,mart.dashboard_kpi_summary
+F08,Figure,outputs/figures/F08_synthea_encounter_setting.png,Encounter setting,Synthea,T09
+F09,Figure,outputs/figures/F09_synthea_organization_concentration.png,Organization concentration,Synthea,T11
+L02,Listing,outputs/listings/L02_synthea_patient_segment_pathway.csv,Patient-segment pathway: encounters and CBC signals 365 days pre/post index,Synthea target cohort (726 patient-segment rows),mart.segment_patient_pathway_summary
+L03,Listing,outputs/listings/L03_qa_validation_checks.csv,All pipeline validation checks,All sources,mart.*_validation_summary

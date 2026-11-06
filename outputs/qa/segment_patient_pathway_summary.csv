@@ -1,0 +1,727 @@
+patient_id,risk_segment,first_segment_condition_date,encounters_pre_365,encounters_on_index_date,encounters_post_365,cbc_observation_days_pre_365,cbc_observation_days_on_or_post_365,iron_medication_start_days_pre_365,iron_medication_start_days_on_or_post_365
+46768e09-6b9f-49fe-9480-529079f64562,Pregnancy-related risk,2010-02-04,1,1,7,0,1,0,0
+cecb7ece-fb70-4a7f-b51d-6e8dd1506ad9,Kidney or renal disease risk,1977-03-19,1,0,1,0,0,0,0
+9423451c-8c37-4700-a059-f8c2f9c636b0,Anemia diagnosis (not iron-specific),2015-09-21,1,2,13,1,1,0,0
+defd47cc-95c0-4302-a284-6038e986d672,Congestive heart failure,2002-06-14,2,1,2,1,0,0,0
+59cf17d9-6c13-4333-a1cb-cc5fdf63366d,Anemia diagnosis (not iron-specific),1993-10-12,22,2,34,0,13,0,0
+2dc2c931-b06e-4249-8a39-c33bc60c0f03,Pregnancy-related risk,1983-02-10,0,1,0,0,0,0,0
+88159e4d-29e0-4f53-a821-e9cc3faf21b4,Pregnancy-related risk,2018-09-27,7,1,14,0,0,0,0
+be8fc232-6d5c-4d97-9a1b-f9b17e06c3ff,Pregnancy-related risk,2012-11-02,6,1,5,0,0,0,0
+ea32ff72-a209-4c99-a5e5-09f047152280,Pregnancy-related risk,2011-09-09,1,1,13,0,0,0,0
+a2e8d9a7-0eb0-4441-adb5-7cc720380f4e,Congestive heart failure,1963-12-29,1,1,2,0,1,0,0
+aeb1d328-5e2b-44e4-91ed-4527c91c7dba,Pregnancy-related risk,2013-11-01,3,0,3,0,0,0,0
+2e00e359-abc8-49aa-b98c-c0cc554acf34,Pregnancy-related risk,1969-04-17,0,1,1,0,0,0,0
+aa041f6e-348c-4fcc-b3a4-c65d2d38b996,Pregnancy-related risk,1994-01-04,0,1,0,0,0,0,0
+3acf9313-1874-4dff-ab2a-3187516d92d6,Congestive heart failure,2013-05-02,39,1,46,0,0,0,0
+58100357-85b6-4334-bc2a-8998c24a4812,Pregnancy-related risk,2009-12-03,1,0,6,0,0,0,0
+92408d94-8b50-4e26-a6e1-42ee77823db6,Pregnancy-related risk,2013-08-31,5,1,8,0,1,0,0
+fca3178e-fb68-41c3-8598-702d3ca68b96,Congestive heart failure,1987-09-06,1,1,3,1,0,0,0
+86b97fc7-ae8f-4e0d-8e66-db68f36e7a76,Pregnancy-related risk,1995-03-07,1,1,2,0,0,0,0
+14289f20-085c-4fc8-bdd8-e2074166d91f,Pregnancy-related risk,1994-04-15,2,1,2,0,0,0,0
+d721b0eb-f819-472e-997a-b057ca7fab01,Pregnancy-related risk,2018-09-12,4,1,3,1,0,0,0
+b118adba-1330-4ba0-8d96-fe610dfbd41e,Kidney or renal disease risk,2014-03-12,4,1,2,1,0,0,0
+b096000e-3f69-4940-89ce-1230ee9d5a0a,Congestive heart failure,2006-05-27,1,1,2,0,1,0,0
+bba40d4c-1a9e-41d3-923d-5232b01a0dd9,Pregnancy-related risk,2018-07-29,3,1,12,0,0,0,0
+3e89db15-7c8d-464c-8ed6-e1535438ca83,Pregnancy-related risk,1989-07-31,1,1,1,0,0,0,0
+c1de8dc8-87e2-4016-8b95-fdc64c3bc78d,Pregnancy-related risk,1954-12-07,0,1,0,0,0,0,0
+d0bbc03d-df4e-44e3-ad4c-b5739dd67887,Anemia diagnosis (not iron-specific),1972-06-07,2,0,0,0,0,0,0
+0ba90366-87ad-4f9d-9bcd-c11e63eb6f27,Pregnancy-related risk,1997-04-18,0,1,1,0,0,0,0
+8c956d17-23d5-44d1-b41e-7f26833c77fd,Anemia diagnosis (not iron-specific),2010-02-01,0,1,1,0,0,0,0
+7b99cacb-b260-4c0a-a027-d1be359d9876,Pregnancy-related risk,1983-10-28,0,1,0,0,0,0,0
+e234ae17-7d4d-4d7f-8eb6-38edc1ebebc2,Congestive heart failure,2001-12-19,1,1,2,0,0,0,0
+cf12424d-63da-4fbb-b93f-22308793cafa,Anemia diagnosis (not iron-specific),2010-03-09,0,1,0,0,0,0,0
+3acf9313-1874-4dff-ab2a-3187516d92d6,Anemia diagnosis (not iron-specific),1963-12-09,0,2,1,0,0,0,0
+09cbb3f1-c2ed-426c-8c53-ffda77efcb08,Congestive heart failure,2006-03-03,2,1,7,1,0,0,0
+45166484-2cc4-40f0-9be5-b9435ce0e476,Anemia diagnosis (not iron-specific),2001-05-07,0,1,0,0,0,0,0
+f7d7b580-e670-4921-bc67-550ec468d506,Anemia diagnosis (not iron-specific),1997-04-20,0,2,0,0,0,0,0
+0780f97f-e326-4e51-8b5c-3461eea70517,Anemia diagnosis (not iron-specific),1961-08-13,0,2,0,0,0,0,0
+8bf92fdc-0cff-4945-b5a9-7fb8ddbee686,Pregnancy-related risk,1979-07-27,1,1,1,0,0,0,0
+70794fdc-0702-4e0f-9682-8ec5d7145436,Anemia diagnosis (not iron-specific),1976-10-19,0,2,0,0,0,0,0
+5b5bc31a-0e78-4e08-a183-e2503be440b3,Anemia diagnosis (not iron-specific),2010-05-02,2,2,2,0,0,0,0
+fd3acd35-add1-4634-8c90-68ed0f638fde,Anemia diagnosis (not iron-specific),1991-03-24,0,2,0,0,0,0,0
+ff6948b7-3d62-4bfc-bc7d-dbb6748ed0be,Pregnancy-related risk,2002-02-25,0,1,0,0,0,0,0
+817d7365-56fc-43f6-845e-ea9f5623d1aa,Anemia diagnosis (not iron-specific),2005-01-20,2,0,0,0,0,0,0
+d0355c37-6594-4147-91ff-8b82dfb0a6c2,Kidney or renal disease risk,2013-04-01,2,1,2,0,1,0,0
+a0be3e9c-2d82-4145-9f71-c15e1f47fe70,Pregnancy-related risk,2014-12-27,1,1,12,0,1,0,0
+3f336702-bf73-4fc8-bd59-3ba77fd65d0d,Anemia diagnosis (not iron-specific),1965-07-02,0,1,0,0,0,0,0
+2c3932da-bde3-4d3c-a790-ff3b0fc4fb53,Anemia diagnosis (not iron-specific),1970-08-01,0,1,0,0,0,0,0
+69b60335-4bd9-4043-ad76-26b75d7dd40a,Pregnancy-related risk,1985-11-02,0,1,0,0,0,0,0
+5638c948-62e3-4727-844b-3ac11d99749a,Anemia diagnosis (not iron-specific),1965-10-22,0,1,0,0,0,0,0
+59de0d88-e84d-4c2b-8c9b-12167eb03949,Pregnancy-related risk,1979-07-03,0,1,0,0,0,0,0
+30d83f4d-837c-488d-9748-5ee0fa49edd5,Anemia diagnosis (not iron-specific),2004-06-07,1,2,0,0,0,0,0
+69e3f282-ba80-4cbe-9a35-d25f2055b61c,Pregnancy-related risk,2010-10-29,1,2,9,0,1,0,0
+9fe859fa-d775-494d-ae34-fa648e5d186d,Pregnancy-related risk,1985-07-12,1,1,1,0,0,0,0
+01e1f394-7219-4189-bceb-3cbd90cff90b,Pregnancy-related risk,2010-03-19,0,1,10,0,0,0,0
+d46af421-9bb5-4b8e-b763-b968a6bebd0c,Anemia diagnosis (not iron-specific),1971-05-13,0,1,0,0,0,0,0
+8e11ec6c-6b5d-42df-a45e-aedb6131ade4,Anemia diagnosis (not iron-specific),1999-03-24,0,1,0,0,0,0,0
+a0b45d77-e330-44a3-9085-f06e636e5175,Anemia diagnosis (not iron-specific),2019-07-11,1,2,0,0,1,0,0
+cbec03bf-d54a-41ec-9090-bb36a70028b0,Anemia diagnosis (not iron-specific),2001-01-28,0,2,0,0,0,0,0
+a60cf760-8aa6-49f1-a24f-dfbd10097c34,Pregnancy-related risk,2012-11-25,2,1,14,0,0,0,0
+3a52cc8f-394a-4840-968d-b595f4e3106d,Pregnancy-related risk,1970-10-23,1,0,2,0,0,0,0
+c466fefd-30df-47ac-98b3-a1cdf8e2f7c7,Pregnancy-related risk,2012-07-12,1,1,13,0,1,0,0
+a7b167c9-6230-4a8f-b808-9ada2dd35973,Pregnancy-related risk,2008-08-31,0,1,0,0,0,0,0
+52729daa-66a1-42d6-96c0-691a2d89e819,Congestive heart failure,2007-05-13,2,1,3,0,0,0,0
+efa3e04c-ec23-46e4-9431-a73492ad32a5,Anemia diagnosis (not iron-specific),1967-04-06,0,2,0,0,0,0,0
+8a1d2c26-0774-4526-916f-1148e0357b5d,Anemia diagnosis (not iron-specific),1996-07-12,1,2,2,0,0,0,1
+fc817953-cc8b-45db-9c85-7c0ced8fa90d,Pregnancy-related risk,1957-01-05,0,1,1,0,0,0,0
+bae73dce-20fa-4a6a-8e46-b2ed541f9296,Anemia diagnosis (not iron-specific),1980-06-29,0,1,0,0,0,0,0
+d5bf8e49-c70c-45df-9675-cf3dff4458d5,Anemia diagnosis (not iron-specific),2008-10-20,1,0,0,0,0,0,0
+5b891358-1bb3-4bbf-b8a6-a73fbe58efe7,Anemia diagnosis (not iron-specific),1988-02-26,0,1,0,0,0,0,0
+0edbb001-5914-42b6-9194-0a3c753b5c25,Pregnancy-related risk,1984-10-12,0,1,1,0,0,0,0
+3047ebac-457b-4a6d-85eb-f59eef4f76cc,Anemia diagnosis (not iron-specific),1969-01-07,0,1,0,0,0,0,0
+61d64033-b6eb-40fd-a003-225ad15bb73b,Pregnancy-related risk,2002-07-10,0,1,0,0,0,0,0
+cb96c95a-eaf7-4e02-9631-1c967a24ea2b,Pregnancy-related risk,2017-02-03,0,1,6,0,1,0,0
+aaa1801a-51d1-4b7e-a5b8-7e8547be60a8,Pregnancy-related risk,1971-11-29,0,1,0,0,0,0,0
+b48a38ae-3bb7-4e52-add7-bce581c87262,Anemia diagnosis (not iron-specific),1940-01-28,0,1,0,0,0,0,0
+ab41f97a-1f4a-4718-a760-1e112514f282,Pregnancy-related risk,1992-11-15,0,1,0,0,0,0,0
+2e4df8c7-8b04-4165-a1fb-e4234d8aebe7,Pregnancy-related risk,1982-08-27,0,1,0,0,0,0,0
+bb9d00fe-b16e-4832-8aec-b1e9d480d48d,Anemia diagnosis (not iron-specific),2017-06-29,0,2,0,0,1,0,1
+bf4c0305-f14c-4035-be21-8781c675b7db,Anemia diagnosis (not iron-specific),2005-02-28,0,1,0,0,0,0,0
+3b95da79-b5aa-419a-9558-f4627b02ae3a,Kidney or renal disease risk,2007-01-24,1,1,1,0,0,0,0
+8a2011ce-0a46-4f2a-ab6f-be7a287f9264,Pregnancy-related risk,2007-11-09,0,1,0,0,0,0,0
+e7b0fe9b-a6ae-4a8a-9055-7971a07568d8,Anemia diagnosis (not iron-specific),2002-09-29,0,1,0,0,0,0,0
+76982e06-f8b8-4509-9ca3-65a99c8650fe,Pregnancy-related risk,2011-08-03,2,1,12,1,0,0,0
+7723d469-7227-4b58-8f3e-b441197f4134,Pregnancy-related risk,2013-08-06,1,1,12,0,0,0,0
+dac134fa-7f57-4211-923a-e943a5c11d93,Kidney or renal disease risk,2006-05-18,1,0,0,0,0,0,0
+d9f90c91-2e37-40ca-a574-89b33a120d16,Pregnancy-related risk,2010-11-30,7,1,3,1,0,0,0
+da2e9adf-583c-4905-91ec-64f162699409,Pregnancy-related risk,2001-07-17,1,1,1,0,0,0,0
+9ec4030b-2529-4647-b325-b04c6b44874b,Anemia diagnosis (not iron-specific),1997-09-24,0,1,0,0,0,0,0
+1a7e8f38-95df-4c27-8897-21ed04c3b98b,Congestive heart failure,2015-05-24,8,1,6,0,0,0,0
+e5b763ef-2b9f-4c7d-8dbd-1a8ffad0d649,Pregnancy-related risk,2006-07-28,1,1,1,0,0,0,0
+fd3be685-fa44-4ccd-836a-f4a47b2d4d34,Kidney or renal disease risk,2011-10-12,1,1,5,0,1,0,0
+6dafa93d-3698-4124-9bbd-7429cc2a7374,Congestive heart failure,2017-01-16,3,1,3,0,0,0,0
+dda6a788-814a-48f2-8ebe-bc57e4cefd92,Congestive heart failure,2002-07-27,2,1,4,0,0,0,0
+0982ef39-7ff9-4c24-8239-e9fc0667e8ca,Pregnancy-related risk,2017-02-20,5,1,12,0,0,0,0
+79066870-ef55-4bcb-b849-1edf3f6487cc,Pregnancy-related risk,2015-08-31,6,1,12,1,1,0,0
+19dea027-3a86-4f26-8b69-bbe969cb67cf,Pregnancy-related risk,2012-06-17,2,1,11,0,0,0,0
+af08878c-08dc-4938-aebd-cd5da315c479,Congestive heart failure,2016-07-08,3,1,3,0,1,0,0
+4ba0fb24-b585-447f-a2be-392c3a50c4b6,Pregnancy-related risk,1995-01-11,0,1,0,0,0,0,0
+b574b7cc-3294-4d3b-8cfe-81dcf7456ab4,Anemia diagnosis (not iron-specific),1984-10-14,0,2,0,0,0,0,0
+30dd9636-c7bd-44ff-a5c9-20104ece45bd,Pregnancy-related risk,1970-10-21,1,1,0,0,0,0,0
+df7c1d66-eac2-49bd-9d12-ee17e8758f68,Pregnancy-related risk,2010-05-17,1,1,11,0,1,0,0
+69e3f282-ba80-4cbe-9a35-d25f2055b61c,Anemia diagnosis (not iron-specific),2010-10-29,1,2,9,0,1,0,0
+f1e65288-3df1-4bb4-b67e-b41d6f1385a2,Congestive heart failure,1982-07-05,4,1,4,0,0,0,0
+1474f954-3781-4de1-9d5d-27a2b8688419,Anemia diagnosis (not iron-specific),2020-01-17,5,3,4,0,2,0,0
+fdb2a2ee-09c2-499b-b324-d998d5226f19,Pregnancy-related risk,1970-07-27,1,0,0,0,0,0,0
+066c0f3d-90bb-4082-99ec-f307c4759f50,Anemia diagnosis (not iron-specific),2003-06-29,1,2,1,0,0,0,0
+92d23553-700d-488f-83a5-2ba9b9544295,Pregnancy-related risk,2001-12-20,1,0,0,0,0,0,0
+e51205c4-1713-4360-8257-8e3fac3afb67,Anemia diagnosis (not iron-specific),1994-01-20,0,2,0,0,0,0,0
+cc257592-c844-4cc0-85dd-05bff3297ec8,Pregnancy-related risk,2001-04-18,0,1,0,0,0,0,0
+c844d8ac-d5bf-45eb-b8cf-84327c9a4e97,Anemia diagnosis (not iron-specific),2019-03-21,5,0,0,1,0,0,0
+13a3a783-ecc5-4ec5-b3dc-168b15cebb88,Anemia diagnosis (not iron-specific),1979-09-28,0,1,0,0,0,0,0
+ab88386a-1c0d-4d1c-89fc-b38f631b3edc,Pregnancy-related risk,2011-11-03,1,1,12,0,1,0,0
+81e21b21-8b49-4ac1-b00d-46a7f43e46a9,Pregnancy-related risk,2010-02-19,1,1,9,0,0,0,0
+072f2f15-605e-4c83-b0a6-0274a0474b91,Pregnancy-related risk,1990-08-07,0,1,0,0,0,0,0
+7525003c-806f-401a-a6ae-751c39112c56,Pregnancy-related risk,2018-10-04,1,1,12,1,0,0,0
+2c71dd97-7085-416a-aa07-d675bbe3adf2,Anemia diagnosis (not iron-specific),1969-06-06,0,2,0,0,0,0,0
+8505e011-20cb-4bc5-8a66-5900111fb04b,Pregnancy-related risk,2004-12-17,2,1,1,0,0,0,0
+ec3f12e0-5f62-4378-aab7-2538d037df0f,Pregnancy-related risk,1999-02-19,0,1,1,0,0,0,0
+a96344e6-afe6-4eeb-9f95-00c62c152e8f,Anemia diagnosis (not iron-specific),2020-01-13,3,2,5,0,4,0,0
+d6a2da1f-ef65-4292-b637-8a0d6ac9b3ec,Congestive heart failure,2017-03-31,2,1,8,1,0,0,0
+0325261f-61eb-46f8-acc6-89d15053fecd,Kidney or renal disease risk,2001-07-24,2,1,5,0,0,0,0
+c1a6f986-01c4-4581-ba74-bf22d28f8ace,Pregnancy-related risk,1938-10-08,1,1,2,0,0,0,0
+e05dd037-e45f-434a-946d-5c9076a2f596,Pregnancy-related risk,2003-11-16,1,0,3,0,0,0,0
+f5770761-ebcf-49ff-883a-b8040926f9a2,Pregnancy-related risk,2011-03-21,3,1,10,0,0,0,0
+baffdce5-d444-4c8c-a815-e7d00a01f7ca,Pregnancy-related risk,1982-08-12,1,1,1,0,0,0,0
+608e39b8-367a-48d6-afc6-244e4c19c849,Congestive heart failure,1998-06-15,2,1,5,0,0,0,0
+be3eaf02-0c8a-4729-8b6e-7b40ab016e29,Kidney or renal disease risk,1984-02-21,0,1,3,0,0,0,0
+7ec148ed-47a0-4d8c-a020-630b5f7a81db,Anemia diagnosis (not iron-specific),2004-03-02,0,1,0,0,0,0,0
+2cd4ff27-8689-4c17-b96d-f6daeeac830a,Anemia diagnosis (not iron-specific),1966-05-13,2,2,1,0,0,0,0
+3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,Anemia diagnosis (not iron-specific),1969-05-31,1,2,1,0,0,0,0
+10134dbf-72d1-4381-b8f3-9530cca6622a,Anemia diagnosis (not iron-specific),2004-09-27,0,1,0,0,0,0,0
+9c4c1885-35af-48b9-a09f-4ea448d40d75,Kidney or renal disease risk,1991-01-22,0,1,1,0,0,0,0
+32885ae1-d031-4f52-8f91-0e5196f5462a,Pregnancy-related risk,2012-08-27,0,1,12,0,1,0,0
+8d1ba4bb-7250-4295-be1c-5d0d423e55f7,Anemia diagnosis (not iron-specific),1994-05-05,1,0,0,0,0,0,0
+b096000e-3f69-4940-89ce-1230ee9d5a0a,Anemia diagnosis (not iron-specific),1980-09-22,0,2,0,0,0,0,0
+a27da6fe-7844-4205-a84f-6db17bfb8935,Anemia diagnosis (not iron-specific),1996-06-27,0,1,0,0,0,0,0
+efa3e04c-ec23-46e4-9431-a73492ad32a5,Pregnancy-related risk,1970-10-01,1,1,1,0,0,0,0
+77a0cd86-92bb-4c6d-a91a-49ee66e353b9,Pregnancy-related risk,2012-09-15,4,0,11,2,0,0,0
+ca8803ac-66ef-4895-a8c4-290313fcee6f,Pregnancy-related risk,2014-04-01,2,1,16,0,0,0,0
+4877881d-b098-4299-9075-febe1b3b8934,Pregnancy-related risk,2010-03-30,0,1,10,0,0,0,0
+92e610ea-e98a-49fb-b770-9dcc307a5777,Pregnancy-related risk,1995-05-22,0,1,0,0,0,0,0
+9b745b3c-c385-44cf-b4cb-448b67e58389,Pregnancy-related risk,1985-06-24,0,1,0,0,0,0,0
+04db6603-0017-4cc6-a46d-6df577b0a10d,Pregnancy-related risk,2002-08-26,1,1,1,0,0,0,0
+fcee8e43-b4dc-40c3-bb1e-836292c5b03f,Anemia diagnosis (not iron-specific),2011-01-14,2,0,0,1,0,0,0
+b656a85d-637d-458a-abd8-17219816280f,Anemia diagnosis (not iron-specific),2000-03-19,1,1,0,0,0,0,0
+2dc2c931-b06e-4249-8a39-c33bc60c0f03,Congestive heart failure,1995-07-29,1,1,5,1,0,0,0
+9f5eacbf-4d98-4024-a559-86d7802e4ead,Anemia diagnosis (not iron-specific),1971-05-12,0,1,0,0,0,0,0
+cae10920-f977-48b4-a0d3-4d70ad561fd1,Anemia diagnosis (not iron-specific),1966-06-17,0,1,0,0,0,0,0
+4b414e31-2791-4942-9c28-46a299805848,Pregnancy-related risk,1999-02-18,0,1,0,0,0,0,0
+9e081e53-a748-47c5-8e36-d9c858d23c14,Kidney or renal disease risk,1992-02-16,0,1,2,0,0,0,0
+f186b9f3-8c70-4bbc-8335-4bb2ccca0a3c,Pregnancy-related risk,2014-07-29,1,1,11,0,0,0,0
+b656a85d-637d-458a-abd8-17219816280f,Kidney or renal disease risk,2002-11-03,0,1,8,0,0,0,0
+9ab883b3-d1dd-4120-b19c-e78d3ea8c25c,Pregnancy-related risk,1990-03-16,0,1,0,0,0,0,0
+b7740f2d-d404-4021-8c0a-2c395ef9b4da,Anemia diagnosis (not iron-specific),1947-07-09,0,2,0,0,0,0,0
+cae10920-f977-48b4-a0d3-4d70ad561fd1,Kidney or renal disease risk,1972-07-21,1,1,0,0,0,0,0
+c94479f7-e87d-40d4-be81-fd5ab44a68c3,Anemia diagnosis (not iron-specific),1994-12-27,0,1,0,0,0,0,0
+55506d51-2c6a-4608-aae3-7cb2f111c926,Anemia diagnosis (not iron-specific),1983-06-25,0,1,0,0,0,0,0
+1a100862-757a-4450-94a6-9731a522f707,Pregnancy-related risk,1972-02-29,0,1,0,0,0,0,0
+2be232c2-45cd-4621-b16a-9bd0ff62181a,Anemia diagnosis (not iron-specific),1981-10-17,0,2,0,0,0,0,0
+b89ab36c-1335-4fa4-9040-d86c6c22dc8d,Anemia diagnosis (not iron-specific),1992-01-28,0,2,0,0,0,0,0
+cafc2141-2307-4f62-abd1-2d6e5486d7a5,Anemia diagnosis (not iron-specific),1988-06-11,0,2,0,0,0,0,0
+ecd32edf-a122-4d6b-a180-b84367bb726a,Anemia diagnosis (not iron-specific),1990-06-28,0,1,0,0,0,0,0
+6aa4b3c1-4b16-479e-a618-0fc47fb99f6e,Pregnancy-related risk,1998-07-10,1,1,1,0,0,0,0
+b36658dd-cb89-41cf-b2e9-1d84894946d5,Anemia diagnosis (not iron-specific),1962-11-25,0,2,0,0,0,0,1
+ab712bbf-6dc2-44b0-94f5-cde430069a6c,Pregnancy-related risk,2019-01-23,0,1,5,0,1,0,0
+83c686df-0a1e-4950-9a2b-c84da98a2652,Pregnancy-related risk,1986-08-20,0,1,0,0,0,0,0
+4be910c3-22ae-4868-9dbe-667aec6e5342,Pregnancy-related risk,2002-02-21,1,1,2,0,0,0,1
+80d81807-e19c-4704-9138-0c89a5e8e536,Pregnancy-related risk,1998-08-11,0,1,0,0,0,0,0
+137acc1b-dbca-473e-84bb-fe1baaf98819,Kidney or renal disease risk,1942-06-21,0,1,3,0,0,0,0
+6ec18ddf-e9ee-421a-9033-456f558c7b4b,Kidney or renal disease risk,1979-08-22,0,1,1,0,0,0,0
+2f76733b-933c-4cc5-aea2-53799158c8cc,Anemia diagnosis (not iron-specific),1952-06-15,0,1,0,0,0,0,0
+b87254fa-724d-4a80-8ac7-ca3c528d6e90,Anemia diagnosis (not iron-specific),2010-09-07,0,2,1,0,1,0,1
+bfb6537b-535a-4f31-9a56-073220f96a17,Pregnancy-related risk,2010-09-01,5,0,14,0,0,0,0
+7dea9311-ef15-4bb0-8d61-dde04dde3557,Pregnancy-related risk,2016-01-06,2,1,12,0,0,0,0
+24bca5cf-ba55-457f-8e80-49690202443c,Anemia diagnosis (not iron-specific),2011-09-13,4,0,2,1,0,0,0
+066c0f3d-90bb-4082-99ec-f307c4759f50,Congestive heart failure,2019-11-22,3,0,1,0,0,0,0
+afb2122f-e8e3-4ae4-9911-b8e2dc4f567d,Anemia diagnosis (not iron-specific),1979-06-17,0,1,0,0,0,0,0
+668ad49e-46d7-45ec-a4b4-dab0961d180b,Anemia diagnosis (not iron-specific),1996-07-05,2,0,0,0,0,0,0
+9c55170c-081c-450d-b90b-3a580a820e77,Pregnancy-related risk,2013-09-01,2,1,10,0,0,0,0
+20c3ca32-ec09-4e7c-abab-9f7711cbe235,Congestive heart failure,2013-06-22,4,1,3,0,0,0,0
+d0bbc03d-df4e-44e3-ad4c-b5739dd67887,Congestive heart failure,2016-03-18,2,0,3,1,0,0,0
+dda6a788-814a-48f2-8ebe-bc57e4cefd92,Pregnancy-related risk,1989-06-29,0,1,0,0,0,0,0
+cb96c95a-eaf7-4e02-9631-1c967a24ea2b,Anemia diagnosis (not iron-specific),2018-01-26,4,2,9,0,1,0,0
+d8b07feb-551d-4b3c-9733-c468b8104f0c,Anemia diagnosis (not iron-specific),2002-12-05,1,1,1,0,0,0,0
+7f874045-4062-405d-8c23-abb12d0af23e,Anemia diagnosis (not iron-specific),2010-11-06,0,2,0,0,1,0,0
+51f196eb-b11e-493e-ad95-254285af055e,Anemia diagnosis (not iron-specific),2013-08-07,4,0,0,1,0,0,0
+1302bca8-7576-4009-aac7-8750c7d50140,Anemia diagnosis (not iron-specific),1989-04-07,1,2,1,0,1,0,0
+66135cde-428a-4cf7-bc1d-d5ddce40d9cd,Pregnancy-related risk,1938-12-10,0,1,0,0,0,0,0
+6d048a56-edb8-4f29-891d-7a84d75a8e78,Pregnancy-related risk,1945-01-06,0,1,0,0,0,0,0
+b58731cc-2d8b-4c2d-b327-4cab771af3ef,Pregnancy-related risk,2018-05-26,1,1,12,0,0,0,0
+b4f1aa40-1a13-43cc-9528-8dcde700ecf0,Anemia diagnosis (not iron-specific),1996-04-04,0,1,0,0,0,0,0
+1c0cea09-f0db-4ef0-a551-d67645ee4538,Pregnancy-related risk,1948-04-25,0,1,0,0,0,0,0
+c986f01b-c0d0-46c6-809f-ca215706aa1d,Pregnancy-related risk,1995-01-31,0,1,0,0,0,0,0
+40c83ae5-ba34-483e-b348-b558b44179ca,Congestive heart failure,2000-04-22,2,1,4,0,0,0,0
+18794a7c-c7fa-47d6-8387-9fc133c4e1e3,Pregnancy-related risk,2012-07-02,1,1,11,0,0,0,0
+7707b0b1-9d24-4ec5-9d42-d6a077c037cb,Anemia diagnosis (not iron-specific),2016-05-08,7,2,1,1,1,0,0
+dbcd6f5b-6069-4f03-95f3-5c17a0f2776c,Anemia diagnosis (not iron-specific),1983-11-20,0,1,0,0,0,0,0
+13db4bb8-d1dc-4158-a820-d2d1b7084fc4,Pregnancy-related risk,1989-02-18,2,0,1,0,0,0,0
+61417eb5-1c42-4207-afb3-c9ebef48496f,Anemia diagnosis (not iron-specific),1986-12-12,0,2,0,0,0,0,1
+2a843035-9957-46ee-8b11-eb8afebe4242,Pregnancy-related risk,2018-10-31,4,1,11,0,0,0,0
+59486a8b-389b-4355-9df4-edc62bbd1a11,Pregnancy-related risk,1971-07-01,0,1,0,0,0,0,0
+10a4a009-2d24-4512-8506-f8d8c36255d5,Pregnancy-related risk,2011-04-14,5,0,13,0,0,0,0
+14289f20-085c-4fc8-bdd8-e2074166d91f,Anemia diagnosis (not iron-specific),1992-06-12,2,1,2,0,0,0,0
+cad44a83-848c-4019-a175-291a150b9d05,Kidney or renal disease risk,2011-03-01,2,0,2,1,0,0,0
+0447625b-b860-483c-9f30-17ed375b1493,Pregnancy-related risk,1988-05-24,0,1,0,0,0,0,0
+ba190ea7-9318-4b89-a17a-907a71ef24fa,Anemia diagnosis (not iron-specific),1949-08-23,1,2,0,0,0,0,0
+73d6a730-418f-4dbc-bc00-6d2c53bfa89a,Pregnancy-related risk,1970-07-08,1,0,0,0,0,0,0
+cafc2141-2307-4f62-abd1-2d6e5486d7a5,Congestive heart failure,2011-05-25,4,1,8,0,0,0,0
+f1e270bf-45bd-481b-938f-0aed25ddbed3,Pregnancy-related risk,2019-10-14,0,1,5,0,0,0,0
+96d27517-8187-4346-bfdb-83188cc4bddf,Pregnancy-related risk,2020-01-20,3,0,4,1,0,0,0
+b5bbfa23-0c80-4762-a3b9-97ceebed8d27,Pregnancy-related risk,1991-07-17,2,0,1,0,0,0,0
+f504b982-e99b-4064-ad25-9e5480e769cd,Anemia diagnosis (not iron-specific),1999-05-09,0,2,2,0,0,0,0
+3042d51b-e7b8-4135-8b68-fb7a88ced16c,Pregnancy-related risk,2010-08-04,1,1,3,0,0,0,0
+532696f2-0b76-4eb0-9aea-a74e2fb1bed2,Pregnancy-related risk,1998-06-18,0,1,0,0,0,0,0
+e974e5c3-9b22-41f2-b3a3-c12848f29a73,Pregnancy-related risk,1963-04-02,0,1,0,0,0,0,0
+3ef4c7dc-28c2-4436-b0cc-fa858e2e6c90,Pregnancy-related risk,1997-05-18,0,1,0,0,0,0,0
+c2128123-c579-48b9-8452-d1741f5a3c4c,Pregnancy-related risk,2010-06-11,0,1,4,0,0,0,0
+756e459c-b53e-4120-b427-a80a5caebc06,Anemia diagnosis (not iron-specific),2014-12-29,0,2,1,0,1,0,0
+f94257f2-07f9-4b69-8d77-f13e4ad60511,Anemia diagnosis (not iron-specific),2007-03-10,0,1,0,0,0,0,0
+f9149e25-1799-44bf-a5aa-449b41161345,Kidney or renal disease risk,2007-09-04,0,1,2,0,0,0,0
+759ef86c-a675-457a-8304-0a6f34b57f8f,Anemia diagnosis (not iron-specific),1973-06-07,0,1,0,0,0,0,0
+b50ec6fb-6705-488f-96d1-6c8ea38940b6,Anemia diagnosis (not iron-specific),2006-10-09,2,0,1,0,0,0,0
+03612a7e-6460-4ef6-9528-59d60f970b93,Congestive heart failure,2011-03-15,1,1,2,0,0,0,0
+4f0cc2f3-8492-41c9-ad38-f01219739df0,Pregnancy-related risk,1998-07-09,0,1,0,0,0,0,0
+66b46e68-f643-4ebd-8ad1-14ebf58e356c,Pregnancy-related risk,2012-04-06,2,3,15,0,2,0,0
+efa20606-8972-4bd7-823e-2011fe9a54e1,Pregnancy-related risk,1947-08-19,0,1,0,0,0,0,0
+48713268-0ca7-4699-a372-56af983af6f0,Pregnancy-related risk,2012-12-20,1,1,2,0,0,0,0
+c9942738-49f3-4459-818f-8da20072ff76,Anemia diagnosis (not iron-specific),1957-01-06,0,2,0,0,0,0,1
+be8fc232-6d5c-4d97-9a1b-f9b17e06c3ff,Anemia diagnosis (not iron-specific),1998-11-20,0,2,0,0,0,0,0
+3e66977b-83ab-433e-9cd5-91b6ea2019a3,Anemia diagnosis (not iron-specific),1997-12-15,0,2,0,0,0,0,0
+d08a86d9-8717-4206-8534-e81dd03a18f1,Anemia diagnosis (not iron-specific),1944-04-02,0,2,0,0,0,0,0
+7bac2205-8289-4efd-a05a-47203b0b85d7,Anemia diagnosis (not iron-specific),2000-11-28,0,1,1,0,0,0,1
+f9b8f463-595a-49c5-8c5a-18ec493301fb,Pregnancy-related risk,1979-06-22,1,1,1,0,0,0,0
+68878f91-5962-4ef2-83e7-43b8298c1708,Anemia diagnosis (not iron-specific),2012-04-02,1,2,7,0,1,0,0
+9c489755-e480-4304-9e44-7e10e9b74766,Pregnancy-related risk,1977-02-23,0,1,0,0,0,0,0
+1d996507-b0e3-4ef8-ab62-9db3bd808105,Pregnancy-related risk,1935-10-26,1,1,1,0,0,0,0
+35e1afdd-e938-441d-b54e-db15db0bbcfd,Anemia diagnosis (not iron-specific),1994-01-15,1,0,0,0,0,0,0
+08ea9043-5f84-46ab-9815-81d90024169a,Pregnancy-related risk,1987-12-17,1,0,0,0,0,0,0
+ed5cc81e-619f-471d-aee6-2934124c58e4,Pregnancy-related risk,2006-01-30,1,1,1,0,0,0,0
+4e83ed9f-f2ed-4add-8434-2fc116de704b,Anemia diagnosis (not iron-specific),1982-02-11,0,1,0,0,0,0,0
+64b55489-6953-48af-9e74-07e56130c0e6,Anemia diagnosis (not iron-specific),1973-06-27,2,0,1,0,0,0,0
+51f196eb-b11e-493e-ad95-254285af055e,Pregnancy-related risk,1987-04-01,1,0,1,0,0,0,0
+a60c2937-a6a7-4974-8c9b-f34370c29b7e,Anemia diagnosis (not iron-specific),2008-04-24,0,1,1,0,0,0,0
+1302bca8-7576-4009-aac7-8750c7d50140,Pregnancy-related risk,1971-02-19,0,1,0,0,0,0,0
+92b4bd25-f752-49fe-b248-a3e4b0e89d2a,Anemia diagnosis (not iron-specific),1963-09-14,0,2,0,0,0,0,0
+f7d7b580-e670-4921-bc67-550ec468d506,Pregnancy-related risk,2005-12-04,0,1,0,0,0,0,0
+e033651a-9391-4ca7-abe5-3823b60a12d9,Pregnancy-related risk,1979-07-18,1,1,1,0,0,0,0
+fcc61454-1b07-4e49-a25b-29e5064e0063,Anemia diagnosis (not iron-specific),1997-09-17,0,1,0,0,0,0,0
+5f1c9186-80b0-405f-9f74-c4e26beb1d01,Pregnancy-related risk,2012-09-09,1,1,12,1,0,0,0
+40bb6e06-0d00-40d1-92b9-f4f2bcee5781,Pregnancy-related risk,1980-11-08,0,1,0,0,0,0,0
+756c201c-d61c-4495-afc0-09ca95c673a4,Anemia diagnosis (not iron-specific),1966-08-30,1,1,1,0,1,0,0
+9043026f-7d60-4b65-9c54-8ae48769ea00,Anemia diagnosis (not iron-specific),1985-12-03,0,2,0,0,0,0,0
+3f336702-bf73-4fc8-bd59-3ba77fd65d0d,Kidney or renal disease risk,1972-07-21,0,1,0,0,0,0,0
+860aff27-7431-47ee-968e-554470683160,Pregnancy-related risk,2003-06-24,0,1,1,0,0,0,0
+e2885dfa-4d69-4ec3-b2a1-f3713356637f,Anemia diagnosis (not iron-specific),2004-05-31,0,1,0,0,0,0,0
+5caf8d69-3d67-4264-9dc3-4dd69ddf327a,Anemia diagnosis (not iron-specific),2017-09-05,1,2,1,0,1,0,0
+02f9aadd-72de-4b20-b381-f4c3b1cf7aa3,Anemia diagnosis (not iron-specific),1986-06-14,0,2,0,0,0,0,0
+ec277ad1-49af-4f53-829f-9c074331160c,Pregnancy-related risk,2015-08-14,0,1,12,0,0,0,0
+a0af88b5-1568-4545-a71a-3073c2c2ac72,Anemia diagnosis (not iron-specific),2015-09-19,0,3,3,0,2,0,0
+7a8d17ee-0ec1-4dcc-8304-4e42ccaa6a38,Anemia diagnosis (not iron-specific),1997-06-20,0,2,1,0,0,0,0
+fca3178e-fb68-41c3-8598-702d3ca68b96,Pregnancy-related risk,1935-08-10,0,1,0,0,0,0,0
+5a8c7f6d-b15c-4c55-b299-5bf8c2b35ad4,Pregnancy-related risk,2013-07-09,1,1,14,0,0,0,0
+cdef53d5-0537-4073-8874-79fa5e0346e6,Pregnancy-related risk,1977-04-29,1,1,11,0,0,0,0
+cad44a83-848c-4019-a175-291a150b9d05,Anemia diagnosis (not iron-specific),1996-04-30,1,0,0,0,0,0,0
+d0355c37-6594-4147-91ff-8b82dfb0a6c2,Anemia diagnosis (not iron-specific),2006-02-20,0,2,0,0,0,0,0
+2a113375-afae-45a3-b008-9fbb7fca92a5,Pregnancy-related risk,2013-01-20,1,1,11,0,0,0,0
+a7f1fa30-89c1-408a-8610-c09db0c8d90d,Anemia diagnosis (not iron-specific),1986-11-18,0,1,1,0,0,0,0
+252fc319-ec89-43e4-b28c-184e9b5542b4,Pregnancy-related risk,2011-08-01,4,1,3,1,0,0,0
+81813194-e1ed-41c2-8f7a-122a60b06550,Pregnancy-related risk,2012-07-27,3,1,4,0,0,0,0
+ea521af0-e6c4-4a3c-899c-89c35c49287d,Kidney or renal disease risk,2002-05-02,3,0,1,0,0,0,0
+ef2f5b33-d0ac-479e-8c9f-a7abba988265,Anemia diagnosis (not iron-specific),1998-10-11,0,2,0,0,0,0,0
+f60bf542-5ae3-4b89-b1f5-58ea3c5a46af,Pregnancy-related risk,1985-12-31,2,0,1,0,0,0,0
+2c7af31a-7740-4f28-80f8-d5005ea9c6c0,Anemia diagnosis (not iron-specific),2000-02-08,1,0,0,0,0,0,0
+3042d51b-e7b8-4135-8b68-fb7a88ced16c,Anemia diagnosis (not iron-specific),2006-12-06,1,0,1,0,0,0,0
+aac107d8-5187-420f-a90c-448ad49dee41,Anemia diagnosis (not iron-specific),2016-11-11,4,2,13,0,1,0,1
+711d2093-5eb9-45a6-ad09-4b5c0371ad85,Anemia diagnosis (not iron-specific),2013-12-15,0,2,0,0,1,0,0
+e061409e-4b85-4ec1-b1f7-02677d51f763,Pregnancy-related risk,2016-02-18,2,1,3,0,0,0,0
+b2b612b0-d4ac-4b83-8d33-4ed6b295c01c,Pregnancy-related risk,1988-07-18,2,0,1,0,0,0,0
+b953a648-a3e3-4d9f-a4be-28e13deaa08f,Anemia diagnosis (not iron-specific),2014-07-22,4,0,0,1,0,1,0
+1c3fea30-6be0-419a-b342-50767fd55440,Pregnancy-related risk,2014-04-10,1,1,12,0,0,0,0
+2d51ecd6-9e18-40a1-9b15-cfc4f03a0e26,Pregnancy-related risk,2019-12-29,2,0,4,0,0,0,0
+21ce6dc0-8668-4221-a5bc-6d6a1afe4c52,Pregnancy-related risk,2008-06-05,2,1,1,0,0,0,0
+a1678674-817f-4454-b79d-f8a7396bc150,Pregnancy-related risk,2017-08-05,1,1,14,0,0,0,0
+c844d8ac-d5bf-45eb-b8cf-84327c9a4e97,Pregnancy-related risk,1997-05-15,3,0,1,0,0,0,0
+f1c1d986-9e19-40df-b761-799db01c1e57,Pregnancy-related risk,2012-11-21,1,1,6,0,1,0,0
+9c69f2d5-b7de-4634-84c5-bf3efd551f5e,Anemia diagnosis (not iron-specific),2015-06-02,0,2,0,0,1,0,0
+fd0b3930-9d0a-45e4-a63f-deb872627381,Pregnancy-related risk,2017-07-09,5,1,16,0,0,0,0
+f1e65288-3df1-4bb4-b67e-b41d6f1385a2,Pregnancy-related risk,1954-02-11,0,1,0,0,0,0,0
+714b9c18-783d-4f52-aa64-cc3a05a286d9,Anemia diagnosis (not iron-specific),1983-07-06,3,0,0,0,0,0,0
+714b9c18-783d-4f52-aa64-cc3a05a286d9,Kidney or renal disease risk,1986-02-25,1,1,2,0,0,0,0
+538421f8-9001-4853-8e84-59fcabdfe46d,Pregnancy-related risk,2012-05-08,8,1,13,0,1,0,0
+989f11f0-58cd-4b7b-a5f6-1b1c70527be3,Anemia diagnosis (not iron-specific),2012-10-12,0,2,0,0,1,0,1
+05bfc523-bd56-4474-a2bb-1b74a4c1087e,Pregnancy-related risk,2016-12-17,3,2,13,0,2,0,0
+cf0e5f9c-6988-4f54-b3fc-e50d7eff5378,Anemia diagnosis (not iron-specific),2010-08-17,0,2,2,0,1,0,0
+ed58f761-d10f-442e-89a1-ae35294f0ac0,Anemia diagnosis (not iron-specific),1981-08-12,2,0,0,0,0,0,0
+ebee7497-67ea-4a51-ade2-59d7dfca8fcf,Anemia diagnosis (not iron-specific),2009-10-17,0,2,4,0,0,0,1
+73fc00f8-a341-4f62-be27-07c35c3460bc,Anemia diagnosis (not iron-specific),1993-05-16,3,0,1,0,0,0,0
+0ac1bb9f-5fdd-45a5-9891-2f826d86dc17,Anemia diagnosis (not iron-specific),2018-11-27,3,1,2,0,1,0,0
+0522e580-6775-49f5-b471-b39624280402,Congestive heart failure,2014-10-14,4,1,8,1,0,0,0
+05bfc523-bd56-4474-a2bb-1b74a4c1087e,Anemia diagnosis (not iron-specific),2016-12-17,3,2,13,0,2,0,0
+c8b069dc-8bc4-44be-8d20-e80cd8d8d769,Pregnancy-related risk,1999-03-14,0,1,1,0,0,0,0
+9c4c1885-35af-48b9-a09f-4ea448d40d75,Anemia diagnosis (not iron-specific),1961-03-21,1,2,1,0,0,0,0
+144edc8e-936e-42d7-8e7d-f3578cf80cc2,Pregnancy-related risk,1974-10-14,0,1,0,0,0,0,0
+9077ab04-92a1-4189-aa2b-93e50a5c32ae,Pregnancy-related risk,1968-12-29,2,1,1,0,0,0,0
+bc7b7bdb-c9cb-4d48-b5f3-da873de93a22,Anemia diagnosis (not iron-specific),2002-05-31,0,1,0,0,0,0,0
+64eb57c7-d74d-4f4f-9f7f-b58a1fbc57df,Anemia diagnosis (not iron-specific),2015-01-08,1,2,0,0,1,0,0
+f1462368-c891-4ede-9a2f-782da4386bcf,Pregnancy-related risk,2011-12-25,4,1,13,0,0,0,0
+15545751-f1be-43db-9f35-b3aaa0a959e2,Anemia diagnosis (not iron-specific),1986-11-23,0,1,0,0,0,0,0
+9ba75b66-e3a1-4476-9494-586b7a759ea6,Pregnancy-related risk,1987-03-23,2,1,12,0,0,0,0
+ed6fb8d6-c14d-4e34-a029-2dab33855ddd,Pregnancy-related risk,2008-07-27,1,0,1,0,0,0,0
+f94257f2-07f9-4b69-8d77-f13e4ad60511,Pregnancy-related risk,2010-10-02,1,1,12,0,0,0,0
+0d270daf-d227-4461-a6bd-256676bdf824,Anemia diagnosis (not iron-specific),1995-05-03,0,2,0,0,0,0,1
+ed043572-d676-4b8b-86d0-435151812fd4,Pregnancy-related risk,2016-12-18,3,1,6,1,0,0,0
+71257193-1eb5-45e4-9a86-37b8f5d56340,Anemia diagnosis (not iron-specific),2006-07-23,0,2,0,0,0,0,0
+e6f591dc-9b39-4bcf-b468-700ce7745a61,Anemia diagnosis (not iron-specific),2014-06-11,0,2,0,0,1,0,0
+e6e423f1-05b0-4c31-a107-56538598a86d,Pregnancy-related risk,2015-07-18,1,1,10,0,0,0,0
+c466fefd-30df-47ac-98b3-a1cdf8e2f7c7,Anemia diagnosis (not iron-specific),2010-02-18,0,1,2,0,0,0,0
+87f05059-de42-4630-a35b-edb53d880640,Pregnancy-related risk,1970-08-25,1,1,1,0,0,0,0
+e3bba570-83a5-4105-b766-27582eb6ba59,Anemia diagnosis (not iron-specific),2001-05-28,0,2,0,0,0,0,0
+9e081e53-a748-47c5-8e36-d9c858d23c14,Anemia diagnosis (not iron-specific),1991-02-10,0,2,0,0,0,0,0
+941f66eb-5ca6-45cc-b205-6de1f1a59233,Anemia diagnosis (not iron-specific),2000-07-14,0,2,1,0,0,0,1
+17c1cce5-2df1-4597-90fa-60cbe557b210,Anemia diagnosis (not iron-specific),2015-10-06,2,1,1,0,2,0,1
+304e3c61-cd44-4251-8186-0537150ff62c,Anemia diagnosis (not iron-specific),2007-04-24,0,1,0,0,0,0,0
+608e39b8-367a-48d6-afc6-244e4c19c849,Anemia diagnosis (not iron-specific),1983-06-26,0,1,0,0,0,0,0
+9ec4030b-2529-4647-b325-b04c6b44874b,Pregnancy-related risk,1989-12-27,0,1,0,0,0,0,0
+1aa71b23-790e-4d22-92da-c689682c8993,Pregnancy-related risk,2012-01-23,2,1,9,0,0,0,0
+6d8fdec1-d77d-4175-b250-f1bac5472b48,Anemia diagnosis (not iron-specific),1970-12-15,0,2,0,0,0,0,1
+6c7a3894-fa93-418f-b086-4bf001b94a50,Anemia diagnosis (not iron-specific),2008-07-01,0,2,0,0,0,0,0
+023a7d29-32b3-4db5-89c8-b88bd7582ec0,Anemia diagnosis (not iron-specific),1959-05-05,0,1,0,0,0,0,0
+2f76733b-933c-4cc5-aea2-53799158c8cc,Pregnancy-related risk,1967-10-15,0,1,0,0,0,0,0
+42d200ef-0872-4318-8326-08cd7056b2db,Anemia diagnosis (not iron-specific),2002-04-16,0,1,0,0,0,0,0
+c8403116-d069-4130-aa02-39954fc971b5,Pregnancy-related risk,2009-04-05,0,1,2,0,0,0,0
+c6fc7fe8-483a-4df7-ba2b-260ea4de9aa4,Anemia diagnosis (not iron-specific),2015-01-16,2,2,2,0,1,0,0
+79c74afc-ec58-4b7e-8b5c-1b2c5d9ff1f5,Pregnancy-related risk,1997-06-25,0,1,0,0,0,0,0
+98d08360-e1de-46f4-a01e-0c66c92e5567,Anemia diagnosis (not iron-specific),1968-11-06,0,2,0,0,0,0,0
+6ec18ddf-e9ee-421a-9033-456f558c7b4b,Anemia diagnosis (not iron-specific),1976-08-04,0,2,0,0,0,0,0
+dd0feb0d-607b-4d38-887e-657586bc28a3,Pregnancy-related risk,2005-08-09,0,1,1,0,0,0,0
+1d2d568c-c53b-4a2d-8835-a21806cc6645,Anemia diagnosis (not iron-specific),1972-12-25,0,2,0,0,0,0,0
+ffa37e71-fa14-4e84-ba9d-aece8d1d99f9,Pregnancy-related risk,1993-02-03,0,1,11,0,0,0,0
+ef0e5433-6dab-4608-86e4-5b2fb9647d2d,Pregnancy-related risk,2010-07-02,0,1,12,0,1,0,0
+a7f102bb-e1ba-4417-a0c5-75dec6473034,Anemia diagnosis (not iron-specific),1949-01-30,0,2,0,0,0,0,0
+eedb8836-d94c-4a70-8491-bea52efc4ce8,Pregnancy-related risk,1991-08-14,1,0,0,0,0,0,0
+42d200ef-0872-4318-8326-08cd7056b2db,Congestive heart failure,2018-03-18,1,1,2,0,0,0,0
+fb91570f-6f79-4d03-bf4f-d3d58138328e,Congestive heart failure,1989-02-17,1,1,4,0,0,0,0
+8e11ec6c-6b5d-42df-a45e-aedb6131ade4,Pregnancy-related risk,2004-01-21,0,1,0,0,0,0,0
+b109dfad-954d-4a5a-91ee-6581dfeb7f93,Pregnancy-related risk,1999-08-10,0,1,1,0,0,0,0
+23365743-e8f2-4aba-8242-15463f81f81b,Pregnancy-related risk,1972-11-13,0,1,0,0,0,0,0
+e130929b-3c86-4b5e-8b07-22537fc9e84d,Anemia diagnosis (not iron-specific),1978-06-07,0,2,0,0,0,0,0
+703e4c46-ded2-4797-97fe-57fedda2825f,Pregnancy-related risk,1965-03-30,1,0,0,0,0,0,0
+9043026f-7d60-4b65-9c54-8ae48769ea00,Pregnancy-related risk,1988-06-21,1,1,2,0,0,0,0
+13b9a676-7cfd-4b7c-bdb6-43ec52b7c919,Pregnancy-related risk,1959-05-16,0,1,0,0,0,0,0
+7a8e4ef0-adf4-4e6d-8d28-5d36886547f4,Anemia diagnosis (not iron-specific),1996-04-27,0,2,1,0,0,0,0
+1821a44e-ba5e-4250-aae9-23ec9c0c26f1,Anemia diagnosis (not iron-specific),1982-06-12,0,2,0,0,0,0,0
+4a50c62e-24ba-459b-993c-0959691cf96d,Pregnancy-related risk,1976-08-14,0,1,1,0,0,0,0
+a49b8342-1954-48dc-9322-24bbfe3662c5,Anemia diagnosis (not iron-specific),1947-08-15,0,1,0,0,0,0,0
+2e4df8c7-8b04-4165-a1fb-e4234d8aebe7,Anemia diagnosis (not iron-specific),1997-07-11,0,1,0,0,0,0,0
+f1678bde-4814-4d71-bca9-18fdf5282232,Pregnancy-related risk,1993-08-20,2,1,1,0,0,0,0
+2c634692-05d8-4122-9f46-dd9402e2cfc6,Pregnancy-related risk,1998-08-25,1,1,1,0,0,0,0
+acb4817f-0ece-41d8-b179-82397a95a44a,Anemia diagnosis (not iron-specific),2017-07-17,10,2,1,0,1,0,0
+47a91815-0dca-49df-b1dc-8bb88d8c1b38,Pregnancy-related risk,1992-07-08,1,1,1,0,0,0,0
+8a9b659b-4fff-4cef-b189-adbc7914caca,Anemia diagnosis (not iron-specific),1991-02-17,1,1,0,0,0,0,0
+5b891358-1bb3-4bbf-b8a6-a73fbe58efe7,Kidney or renal disease risk,2005-12-02,1,1,4,0,0,0,0
+c08e3ee0-69fa-4a66-ad6f-e5905400d046,Anemia diagnosis (not iron-specific),2016-11-04,2,2,2,0,1,0,0
+63ca741d-130f-4748-b15f-f75075630a73,Congestive heart failure,2015-07-14,1,1,3,0,0,0,0
+ca3330c5-bbbc-47e7-addb-302f2e069986,Pregnancy-related risk,2018-11-19,18,1,29,0,1,0,0
+c2b13854-9810-4c78-93be-08f0b6523e8f,Anemia diagnosis (not iron-specific),1993-03-05,0,1,0,0,0,0,0
+79f5692c-fdf7-4413-8f9e-89adecd0fb99,Pregnancy-related risk,1974-04-01,1,1,1,0,0,0,0
+8960bea5-7854-4446-a6a3-2baaace4cdfa,Pregnancy-related risk,1994-07-16,0,1,0,0,0,0,0
+b271a454-c57e-4566-899a-956e5484c5e1,Anemia diagnosis (not iron-specific),2010-02-03,0,2,0,0,0,0,0
+99070f34-0b6f-4e84-97ea-cfc44ffaf5e8,Anemia diagnosis (not iron-specific),2015-09-05,5,2,6,1,1,0,0
+fcc61454-1b07-4e49-a25b-29e5064e0063,Kidney or renal disease risk,2014-11-26,2,1,11,0,0,0,0
+d2726876-1462-4c32-b0e6-1628fdb88c14,Anemia diagnosis (not iron-specific),1953-07-01,0,1,0,0,0,0,0
+79066870-ef55-4bcb-b849-1edf3f6487cc,Anemia diagnosis (not iron-specific),2015-08-31,6,1,12,1,1,0,0
+c7ab72b3-8095-4913-8207-59f049a2ba98,Pregnancy-related risk,2009-09-30,0,1,1,0,0,0,0
+471eb0f1-acfb-4df9-a7cf-f3af761ebd32,Pregnancy-related risk,2014-06-16,2,1,5,1,0,0,0
+344de08b-bae0-4d79-b89e-a2b6204e1a21,Pregnancy-related risk,1957-08-30,2,1,5,1,0,0,0
+5dccb2e6-668f-41b4-add4-4020617610b3,Anemia diagnosis (not iron-specific),2012-08-11,0,2,0,0,1,0,1
+1a100862-757a-4450-94a6-9731a522f707,Anemia diagnosis (not iron-specific),1976-06-01,0,1,0,0,0,0,0
+926fc2c9-0e8c-4dd4-a00a-6d37a01dd304,Anemia diagnosis (not iron-specific),2004-07-22,0,2,0,0,0,0,0
+3b46f9a9-3447-441d-abd4-4f8e46f9e0c2,Pregnancy-related risk,1994-08-10,1,1,9,0,0,0,0
+b37c9b35-6fea-4570-b7f6-379baf4c9399,Pregnancy-related risk,2011-06-12,5,1,14,0,0,0,0
+ebee7497-67ea-4a51-ade2-59d7dfca8fcf,Pregnancy-related risk,2012-02-18,4,1,3,0,0,0,0
+87f05059-de42-4630-a35b-edb53d880640,Anemia diagnosis (not iron-specific),1962-08-14,0,2,0,0,0,0,0
+4a676284-ffa9-4bda-bfcb-deb04aa9d774,Pregnancy-related risk,1986-01-26,0,1,0,0,0,0,0
+6c2b1cfd-887a-43f8-bee0-000ce2fc6ef0,Pregnancy-related risk,2016-05-26,2,2,12,0,0,0,0
+8d202c65-427d-4190-8c28-3aa27e1a9f4c,Anemia diagnosis (not iron-specific),2016-12-30,4,2,13,0,1,0,1
+89214f7b-82b7-460e-b583-415a688ccc3c,Pregnancy-related risk,1963-09-13,0,1,0,0,0,0,0
+c8403116-d069-4130-aa02-39954fc971b5,Anemia diagnosis (not iron-specific),2011-04-10,1,2,3,0,1,0,0
+a7df9539-bc46-4527-928d-8f2911418ebd,Pregnancy-related risk,1981-07-11,0,1,0,0,0,0,0
+9b286917-8a4b-4ea7-803e-21578f6882e1,Congestive heart failure,2012-02-21,1,1,4,0,0,0,0
+d10ef59e-2231-467e-bbd0-c76c73f04f95,Pregnancy-related risk,2010-08-31,3,1,11,1,0,0,0
+d9e0f5cd-e132-42d4-8727-01ba47c697b8,Anemia diagnosis (not iron-specific),1994-07-09,0,1,0,0,0,0,0
+04a849f4-1aaf-4112-a62f-d44df4325773,Pregnancy-related risk,2018-02-16,6,1,20,0,1,0,0
+e93ddf88-f6bf-47d5-a82c-025ba00a6790,Anemia diagnosis (not iron-specific),2018-05-17,0,3,1,0,2,0,1
+d8b07feb-551d-4b3c-9733-c468b8104f0c,Congestive heart failure,2015-04-08,3,1,3,0,0,0,0
+b69c21d3-2a19-4833-b3a9-37bd30b64e2d,Anemia diagnosis (not iron-specific),1997-11-24,0,2,0,0,0,0,0
+7e3becd0-0053-4d2e-b57e-075b874c32a6,Pregnancy-related risk,2020-02-18,2,0,2,0,0,0,0
+0606d624-7695-41e2-96f0-0b5d3578ae24,Congestive heart failure,2002-12-01,3,1,4,0,0,0,0
+5cb510f1-244d-4f02-a82b-3631e998fad1,Anemia diagnosis (not iron-specific),1983-10-22,0,2,0,0,0,0,0
+6c7ce9c1-78a9-4b72-beff-366cf7aeef5c,Pregnancy-related risk,1996-05-24,0,1,0,0,0,0,0
+899a4f9c-abc3-4a13-88e4-0f7862ee6ab5,Pregnancy-related risk,1949-06-23,0,1,1,0,0,0,0
+108cff4f-f9f1-4817-81a1-110697e354de,Anemia diagnosis (not iron-specific),1982-12-08,1,1,0,0,0,0,0
+73f124a4-e69e-4b8c-a447-e72d23dc54be,Pregnancy-related risk,1992-11-11,1,1,1,0,0,0,0
+449a9a85-5ffc-4df5-a090-9d6e4c6006cb,Anemia diagnosis (not iron-specific),2018-12-09,0,2,1,0,1,0,0
+63ca741d-130f-4748-b15f-f75075630a73,Pregnancy-related risk,1973-11-03,1,1,1,0,0,0,0
+adfc3c2f-30be-430d-8f07-9070dab88c64,Pregnancy-related risk,1977-12-17,1,1,2,0,0,0,0
+46d3a308-7383-47ff-802c-c97bfd727720,Congestive heart failure,2017-05-11,1,1,3,0,0,0,0
+f9734dd4-254c-456d-afec-f6387478407d,Pregnancy-related risk,2013-06-12,1,1,6,0,0,0,0
+53f3587e-b9bf-473a-b36e-62f0e1946fa1,Pregnancy-related risk,1974-11-16,0,1,0,0,0,0,0
+119ab996-9fbd-4243-9a4a-e821dfc6c6f9,Congestive heart failure,1996-05-28,2,1,3,1,0,0,0
+55cc31db-baec-40b5-9b4d-276944000751,Anemia diagnosis (not iron-specific),2009-03-04,0,2,0,0,0,0,0
+5bb2161d-1383-408b-a96d-344c0bd5f23a,Pregnancy-related risk,2013-02-05,2,0,11,1,0,0,0
+690e0ead-590e-4008-a376-67f88c5d7bad,Anemia diagnosis (not iron-specific),2012-07-11,1,2,0,0,1,0,0
+62494529-9ceb-486a-9510-22f7cb454dd6,Anemia diagnosis (not iron-specific),2011-12-02,2,2,11,0,2,0,0
+42d200ef-0872-4318-8326-08cd7056b2db,Pregnancy-related risk,1989-01-24,0,1,0,0,0,0,0
+1bacaab1-708b-42fe-8f12-fbe97a725440,Anemia diagnosis (not iron-specific),1984-10-09,0,2,0,0,0,0,1
+3cb83305-83bf-4645-86bc-5d6a5ff2ab64,Pregnancy-related risk,2014-03-28,1,1,12,0,0,0,0
+73f124a4-e69e-4b8c-a447-e72d23dc54be,Anemia diagnosis (not iron-specific),2004-11-24,0,2,0,0,0,0,0
+04a29a39-c12f-480b-9521-f2d20559089f,Anemia diagnosis (not iron-specific),1973-12-16,2,0,0,0,0,0,0
+c08e3ee0-69fa-4a66-ad6f-e5905400d046,Pregnancy-related risk,2011-01-07,1,1,1,0,0,0,0
+47520f8d-0b71-4fa3-9b7a-bb473e66f1b6,Anemia diagnosis (not iron-specific),1969-01-24,0,1,0,0,0,0,0
+9f0696f4-ab85-48f0-9d61-44c01893d2f0,Anemia diagnosis (not iron-specific),2002-01-17,0,2,0,0,0,0,0
+e51205c4-1713-4360-8257-8e3fac3afb67,Pregnancy-related risk,2012-03-22,1,1,10,0,0,0,0
+aefbe288-f630-4c24-b180-535f6554ac6a,Congestive heart failure,1987-10-25,2,1,3,0,1,0,0
+84114892-a562-4dff-8135-e01c0c8a5cc3,Pregnancy-related risk,2003-02-23,0,1,0,0,0,0,0
+bd06f239-4b79-4780-9f3d-2d48245b05c6,Pregnancy-related risk,2014-06-27,1,1,15,0,1,0,0
+36421d27-328e-4b13-9fca-903c19fe49dd,Anemia diagnosis (not iron-specific),2011-03-04,1,2,2,0,1,0,0
+d21c1070-bfe3-43b7-8612-dbe5533b1e56,Anemia diagnosis (not iron-specific),1998-07-03,0,2,0,0,0,0,0
+716e9acb-2d79-4859-afde-f25990e5a2e0,Anemia diagnosis (not iron-specific),1972-06-21,1,0,0,0,0,0,0
+0325261f-61eb-46f8-acc6-89d15053fecd,Pregnancy-related risk,1966-03-22,1,1,0,0,0,0,0
+aac107d8-5187-420f-a90c-448ad49dee41,Pregnancy-related risk,2010-12-17,0,2,9,0,0,0,0
+e75ed3bb-d04c-46cc-897e-1938329673ec,Pregnancy-related risk,2012-02-10,1,2,16,0,2,0,0
+6e6ae8f3-514f-4686-b1e4-14baeacb671f,Pregnancy-related risk,2011-12-16,1,1,2,1,0,0,0
+e4945ad4-5f21-460f-a420-98a32ef61d3d,Anemia diagnosis (not iron-specific),1995-02-19,0,1,0,0,0,0,0
+f95a8235-5c43-4926-84fb-391822847c30,Anemia diagnosis (not iron-specific),1958-08-31,0,2,0,0,0,0,0
+ba190ea7-9318-4b89-a17a-907a71ef24fa,Congestive heart failure,2014-05-11,1,1,6,0,0,0,0
+e901ce7f-cce0-46dc-b04f-45bd916c4cae,Pregnancy-related risk,2012-10-15,0,1,11,0,0,0,0
+79f5692c-fdf7-4413-8f9e-89adecd0fb99,Anemia diagnosis (not iron-specific),2011-09-12,1,2,0,0,1,0,0
+c2fa7e56-dac5-4998-b0c9-2262f1e2bdd9,Anemia diagnosis (not iron-specific),2009-03-04,0,2,0,0,0,0,0
+0325261f-61eb-46f8-acc6-89d15053fecd,Congestive heart failure,2007-02-12,6,1,7,0,0,0,0
+13b9a676-7cfd-4b7c-bdb6-43ec52b7c919,Anemia diagnosis (not iron-specific),1945-11-17,0,1,0,0,0,0,0
+846b0d5b-e5f5-4fd6-8ae4-7aa8e13a17c3,Anemia diagnosis (not iron-specific),2005-03-20,2,2,1,0,0,0,0
+eabd08f9-513a-40a9-8932-d7e166b9941a,Pregnancy-related risk,2011-01-01,1,1,12,0,0,0,0
+ea8e6623-5590-4d01-bfc1-25d86b1b4491,Pregnancy-related risk,2016-10-06,1,1,12,1,0,0,0
+21a5c5d3-a090-450d-91c1-a9bf3f2902d1,Pregnancy-related risk,1993-05-06,0,1,0,0,0,0,0
+b1b10f6e-e97a-426a-9581-f1a5c29b6e05,Anemia diagnosis (not iron-specific),1948-11-21,0,2,0,0,0,0,1
+703e4c46-ded2-4797-97fe-57fedda2825f,Congestive heart failure,2013-12-24,2,0,3,0,1,0,0
+3b46f9a9-3447-441d-abd4-4f8e46f9e0c2,Kidney or renal disease risk,1994-03-09,0,1,8,0,0,0,0
+50e7ede4-7ca1-4b2c-ae64-6b88b58eeaac,Pregnancy-related risk,2008-06-20,1,0,0,0,0,0,0
+fd3be685-fa44-4ccd-836a-f4a47b2d4d34,Anemia diagnosis (not iron-specific),2006-09-13,0,1,2,0,0,0,0
+295044c0-c8ea-4c19-a69b-30a68f3c9502,Pregnancy-related risk,1992-09-02,1,0,1,0,0,0,0
+6f7f9443-cb21-4b03-8cdc-14ab4894c779,Anemia diagnosis (not iron-specific),1978-12-03,0,2,0,0,0,0,0
+bd6049cf-d394-4818-8b37-a4498547844d,Pregnancy-related risk,2010-06-09,0,1,15,0,0,0,0
+8a789548-b3b7-46dc-9e9a-ffd4406f2961,Pregnancy-related risk,2009-10-19,0,1,4,0,0,0,0
+b41a82a3-26a8-4ec1-b471-9b0887b989d7,Anemia diagnosis (not iron-specific),1972-02-02,0,2,0,0,0,0,1
+058590f8-c0f3-40c1-ac80-246437499d5d,Pregnancy-related risk,1999-07-15,0,1,0,0,0,0,0
+5bf2b18d-fcdc-4ac8-9b39-e623eaad226e,Pregnancy-related risk,2002-02-24,0,1,0,0,0,0,0
+59cf17d9-6c13-4333-a1cb-cc5fdf63366d,Kidney or renal disease risk,1969-03-29,0,1,1,0,0,0,0
+4e83ed9f-f2ed-4add-8434-2fc116de704b,Pregnancy-related risk,1967-07-27,0,1,0,0,0,0,0
+9caeb667-4b89-435e-a925-68265b9e87ce,Pregnancy-related risk,1991-08-28,0,1,0,0,0,0,0
+b574b7cc-3294-4d3b-8cfe-81dcf7456ab4,Pregnancy-related risk,1987-11-29,0,1,0,0,0,0,0
+9c489755-e480-4304-9e44-7e10e9b74766,Anemia diagnosis (not iron-specific),1978-09-20,0,1,0,0,0,0,0
+8ebc4167-461c-4634-86b8-78b89a36e49c,Anemia diagnosis (not iron-specific),1993-03-31,0,2,1,0,1,0,0
+3acf9313-1874-4dff-ab2a-3187516d92d6,Kidney or renal disease risk,1972-01-24,0,1,3,0,0,0,0
+d286528e-a39a-4c04-8545-5e648f781052,Pregnancy-related risk,2011-01-20,5,0,2,0,0,0,0
+5ad3dd08-6e9e-4feb-98ff-2c03ad4d3ef1,Pregnancy-related risk,2012-01-21,2,1,3,0,0,0,0
+f54dd1af-4b23-4781-9c2e-1960bdccac29,Anemia diagnosis (not iron-specific),2005-12-24,0,1,1,0,0,0,0
+8be68b2d-8054-4882-8715-65297d36767a,Pregnancy-related risk,2017-01-12,7,0,11,1,0,0,0
+851275c6-bc90-4e95-a9a7-6f42111be448,Anemia diagnosis (not iron-specific),2008-12-09,0,1,0,0,0,0,0
+8a9df121-e012-457c-ade0-ead804d93818,Pregnancy-related risk,1966-07-26,1,1,1,0,0,0,0
+93947012-6d29-427b-a0a7-ea2ce8360b46,Anemia diagnosis (not iron-specific),2002-01-29,0,1,0,0,0,0,0
+ecd32edf-a122-4d6b-a180-b84367bb726a,Congestive heart failure,2011-06-23,6,1,4,0,1,0,0
+ba756dea-d446-44aa-a3cd-304fcb047bee,Pregnancy-related risk,1984-01-15,0,1,0,0,0,0,0
+99070f34-0b6f-4e84-97ea-cfc44ffaf5e8,Pregnancy-related risk,2009-11-28,0,1,8,0,0,0,0
+80f7a79f-61f1-4ec3-a2c7-226611a54044,Pregnancy-related risk,2019-10-30,2,0,9,0,0,0,0
+9394cb52-7d92-4577-976e-d017af06ed8f,Anemia diagnosis (not iron-specific),2012-12-22,5,0,5,1,0,0,0
+6322b3dc-1e15-4df9-9d5f-dac2501d9960,Anemia diagnosis (not iron-specific),1987-09-22,1,1,0,0,0,0,0
+ee6551d3-ea6d-498b-8117-b4ff3e5bd85e,Pregnancy-related risk,1980-09-23,1,1,2,0,0,0,0
+09cbb3f1-c2ed-426c-8c53-ffda77efcb08,Kidney or renal disease risk,1991-12-15,0,1,2,0,0,0,0
+19d2cfb8-439b-454a-b47e-5274c219005b,Anemia diagnosis (not iron-specific),1944-12-31,1,0,0,0,0,0,0
+1474f954-3781-4de1-9d5d-27a2b8688419,Pregnancy-related risk,2015-03-20,6,1,6,0,1,0,0
+92408d94-8b50-4e26-a6e1-42ee77823db6,Anemia diagnosis (not iron-specific),2017-08-12,8,2,11,0,1,0,0
+65243e61-da11-42a6-826e-a43d960d1e84,Pregnancy-related risk,2013-08-25,1,1,14,0,0,0,0
+8991a066-5e97-42b8-ba97-1c35bc034fea,Pregnancy-related risk,1998-09-07,4,0,15,0,0,0,0
+8b570796-e100-47cd-a634-dbc8cd35857e,Anemia diagnosis (not iron-specific),1966-03-12,0,1,0,0,0,0,0
+e75ed3bb-d04c-46cc-897e-1938329673ec,Anemia diagnosis (not iron-specific),2012-02-10,1,2,16,0,2,0,0
+1f8da3b0-dd67-4925-a6d9-43a02d8402a7,Pregnancy-related risk,2011-03-30,6,1,11,0,0,0,0
+eabd08f9-513a-40a9-8932-d7e166b9941a,Anemia diagnosis (not iron-specific),2015-08-08,0,2,13,0,2,0,0
+8bf92fdc-0cff-4945-b5a9-7fb8ddbee686,Anemia diagnosis (not iron-specific),2008-02-17,1,2,1,0,0,0,0
+f8f79900-d474-43e5-8b45-ef83fd7ab547,Pregnancy-related risk,2011-04-09,5,1,11,0,0,0,0
+dea008f8-c3da-4b74-9b12-db1de6e07730,Pregnancy-related risk,1977-03-25,0,1,0,0,0,0,0
+8c956d17-23d5-44d1-b41e-7f26833c77fd,Pregnancy-related risk,2012-07-23,3,1,2,0,1,0,0
+f1921fc3-fdfc-441d-a928-27c18002fedf,Anemia diagnosis (not iron-specific),1952-01-02,0,1,0,0,0,0,0
+8e075015-6b2e-4cfc-bc67-a44d62c961af,Pregnancy-related risk,1998-12-12,1,1,1,0,0,0,0
+4eb14734-102d-442d-b683-809b100a1dea,Pregnancy-related risk,2011-05-20,6,1,9,1,0,0,0
+848e0227-5d5d-4bdf-8603-207cdea72e2a,Pregnancy-related risk,1977-12-04,1,1,1,0,0,0,0
+4be910c3-22ae-4868-9dbe-667aec6e5342,Anemia diagnosis (not iron-specific),2002-04-25,1,2,0,0,0,0,1
+8be62b06-5994-47fe-aad8-a27a02e054fa,Pregnancy-related risk,2011-05-25,0,1,16,0,0,0,0
+f7d0c659-4b02-4eab-adce-f0a2af63b4b4,Pregnancy-related risk,2016-07-08,2,1,20,0,0,0,0
+aa266066-bb51-4990-be9b-0a49fc65303e,Congestive heart failure,2015-09-26,1,1,3,0,0,0,0
+8505e011-20cb-4bc5-8a66-5900111fb04b,Anemia diagnosis (not iron-specific),2001-09-14,0,2,1,0,0,0,0
+346acf4c-2ac2-4fc7-9d7b-630debf1d90b,Pregnancy-related risk,2009-10-20,0,1,4,0,0,0,0
+e974e5c3-9b22-41f2-b3a3-c12848f29a73,Congestive heart failure,2012-02-11,1,1,5,0,0,0,0
+13b9a676-7cfd-4b7c-bdb6-43ec52b7c919,Congestive heart failure,1976-09-08,3,1,4,0,1,0,0
+71257193-1eb5-45e4-9a86-37b8f5d56340,Pregnancy-related risk,2002-06-09,1,1,1,0,0,0,0
+a708bca4-8fc9-4567-8c22-8b13d44f4f45,Anemia diagnosis (not iron-specific),1981-07-03,2,0,0,0,0,0,0
+cbe65a5a-507c-4f7f-9edf-cd2c8a934c42,Pregnancy-related risk,1987-06-07,1,0,0,0,0,0,0
+de767c9e-3131-4d1a-9eed-fdd86a15d459,Pregnancy-related risk,1946-06-08,0,1,0,0,0,0,0
+52729daa-66a1-42d6-96c0-691a2d89e819,Anemia diagnosis (not iron-specific),1942-07-14,1,2,0,0,0,0,0
+f9149e25-1799-44bf-a5aa-449b41161345,Pregnancy-related risk,2011-10-18,3,1,31,0,1,0,0
+143a7c79-21b9-4240-b8ec-dbeb600699ea,Anemia diagnosis (not iron-specific),2004-02-17,1,0,0,0,0,0,0
+45840f9a-a735-45e4-beb0-b750fc9a712e,Pregnancy-related risk,2010-08-19,3,1,12,0,0,0,0
+af08878c-08dc-4938-aebd-cd5da315c479,Anemia diagnosis (not iron-specific),2002-07-24,0,1,0,0,0,0,0
+6cf93841-acdc-45c5-aca5-7c3efefd7494,Anemia diagnosis (not iron-specific),2003-08-12,0,2,0,0,0,0,1
+2fc08e9c-5e4b-4f76-ae71-111c62a33983,Anemia diagnosis (not iron-specific),2010-10-28,2,2,0,1,1,0,0
+1a100862-757a-4450-94a6-9731a522f707,Congestive heart failure,2014-03-19,1,1,4,0,0,0,0
+ea160682-a049-4b6c-929e-a959a1221968,Pregnancy-related risk,1976-05-23,1,0,0,0,0,0,0
+7f9a57e5-cfc5-4970-b19f-1a7b6ce22882,Anemia diagnosis (not iron-specific),2018-10-20,1,2,1,0,1,0,0
+b118adba-1330-4ba0-8d96-fe610dfbd41e,Anemia diagnosis (not iron-specific),2000-02-09,0,2,0,0,0,0,0
+ed55adb7-3395-4c69-a0b8-b85936c1731c,Pregnancy-related risk,2010-09-04,1,1,12,0,0,0,0
+0149d553-f571-4e99-867e-fcb9625d07c2,Pregnancy-related risk,2010-09-02,1,2,14,0,0,0,0
+3b8d7909-9d3f-4345-b14f-d413a136d0c2,Pregnancy-related risk,2014-11-03,1,0,9,0,0,0,0
+1968aa31-5fce-461a-9486-6e385a7b75e7,Pregnancy-related risk,2011-07-22,7,0,7,0,1,0,0
+e1b30dc8-2618-42c1-a3f8-9c2d8ac49c5f,Anemia diagnosis (not iron-specific),1974-02-04,1,2,7,0,3,0,0
+1bacaab1-708b-42fe-8f12-fbe97a725440,Pregnancy-related risk,1994-08-23,0,1,0,0,0,0,0
+5be97219-ef35-4c5a-88ab-5f9a2187b7d6,Anemia diagnosis (not iron-specific),1993-11-05,0,2,0,0,0,0,0
+28f36cfa-7696-4f73-ac4f-427e802199d9,Pregnancy-related risk,1995-03-23,0,1,0,0,0,0,0
+efa20606-8972-4bd7-823e-2011fe9a54e1,Congestive heart failure,1984-05-18,1,1,4,0,0,0,0
+53b564bb-24b2-47ac-91ba-054e71a108e9,Pregnancy-related risk,1989-02-15,1,1,1,0,0,0,0
+33c2184c-bda1-4d31-b0cb-4f18c46822da,Pregnancy-related risk,1995-04-10,1,1,1,0,0,0,0
+8fd4e053-b318-44d7-9401-0ca84b4d1347,Pregnancy-related risk,1996-06-28,0,1,12,0,0,0,0
+eaa47c11-c363-48a2-b6d6-7382de05bec5,Congestive heart failure,2016-12-20,1,1,3,1,0,0,0
+cb7b125f-b586-4ed2-9d0c-77f449f39d8b,Anemia diagnosis (not iron-specific),2000-12-03,1,2,1,0,0,0,0
+b2888f4d-5623-43c7-b010-3678e2f4f82a,Pregnancy-related risk,2011-06-22,1,1,13,0,0,0,0
+b271a454-c57e-4566-899a-956e5484c5e1,Kidney or renal disease risk,2016-03-09,0,1,1,0,0,0,0
+ab6a2662-f6d1-4da6-b3ce-3929d68650d7,Anemia diagnosis (not iron-specific),2016-02-06,1,2,2,0,1,0,0
+1c2d500e-c583-40f8-83a8-c987d21346b7,Pregnancy-related risk,2009-05-17,0,1,2,0,0,0,0
+f1728f28-ef0c-4342-9216-a4a4e8375961,Pregnancy-related risk,2003-12-16,0,1,0,0,0,0,0
+a3abc11b-0fd1-4eb9-a69a-9075b4737612,Anemia diagnosis (not iron-specific),1953-11-29,0,1,1,0,0,0,0
+817d7365-56fc-43f6-845e-ea9f5623d1aa,Pregnancy-related risk,2010-01-07,2,0,7,0,0,0,0
+528cb8bd-10b7-400d-9069-d599cce1b2f1,Pregnancy-related risk,1993-08-28,0,1,1,0,0,0,0
+8908602e-5f0c-4f1e-847f-75a0043eeba7,Anemia diagnosis (not iron-specific),2001-07-18,0,1,0,0,0,0,0
+4a757679-50a3-4392-8929-bec0876f4744,Anemia diagnosis (not iron-specific),1991-05-21,0,2,0,0,0,0,0
+ba2c1e9f-16e0-427b-97db-dc639daeaaee,Pregnancy-related risk,1993-03-15,0,1,0,0,0,0,0
+49303b96-1de5-4365-9ff3-bf960aea755b,Anemia diagnosis (not iron-specific),1978-02-17,0,2,0,0,0,0,0
+0c5aa52a-3b1d-4289-af16-29f7a2d07fec,Pregnancy-related risk,2009-01-18,0,1,1,0,0,0,0
+3fe783d9-b8f8-4d21-b320-4fb7745702db,Anemia diagnosis (not iron-specific),1999-06-26,0,1,0,0,0,0,0
+2d350bad-f546-4799-b04a-32236b4b3930,Anemia diagnosis (not iron-specific),1960-08-02,0,2,1,0,0,0,0
+66b46e68-f643-4ebd-8ad1-14ebf58e356c,Anemia diagnosis (not iron-specific),2012-04-06,2,3,15,0,2,0,0
+cdef53d5-0537-4073-8874-79fa5e0346e6,Kidney or renal disease risk,1985-09-20,12,1,20,0,0,0,0
+be249d5b-327e-4c30-8fb2-3a1c587fe5ad,Anemia diagnosis (not iron-specific),1996-04-01,2,0,0,0,0,0,0
+76acc19c-38d4-4fa9-83e4-cf9bdc82340d,Pregnancy-related risk,2013-06-14,5,1,10,0,0,0,0
+355b4981-d84e-4055-96db-956464714214,Pregnancy-related risk,2018-01-14,3,1,11,0,0,0,0
+8dd20f15-2beb-4568-83d4-2109123f5ffd,Pregnancy-related risk,2018-05-27,4,0,4,0,0,0,0
+a0ca0f54-f8cc-4bee-9a80-827f0b097636,Pregnancy-related risk,2017-06-13,3,0,6,0,0,0,0
+e15ce616-8e58-4d4c-a6eb-712ce571aeef,Pregnancy-related risk,2020-02-11,8,1,5,0,0,0,0
+e2885dfa-4d69-4ec3-b2a1-f3713356637f,Pregnancy-related risk,1997-08-04,0,1,0,0,0,0,0
+8a9df121-e012-457c-ade0-ead804d93818,Congestive heart failure,1998-05-15,3,1,2,0,0,0,0
+f8f79900-d474-43e5-8b45-ef83fd7ab547,Anemia diagnosis (not iron-specific),2018-02-10,3,2,13,0,2,0,0
+5ce924c7-ec4c-4b5f-93ff-2ae274654c74,Pregnancy-related risk,2007-05-02,0,1,1,0,0,0,0
+79c74afc-ec58-4b7e-8b5c-1b2c5d9ff1f5,Anemia diagnosis (not iron-specific),2020-01-29,3,2,3,1,1,0,0
+6a8faf4c-5577-4f9b-964d-6dc253b3b0c1,Anemia diagnosis (not iron-specific),1989-03-22,1,0,0,0,0,0,0
+1c2d500e-c583-40f8-83a8-c987d21346b7,Anemia diagnosis (not iron-specific),2010-02-07,2,1,8,0,0,0,0
+8641e13a-c832-4d97-811a-b735d0abb45e,Anemia diagnosis (not iron-specific),2004-12-08,0,1,0,0,0,0,0
+cda36bac-8f55-4856-b586-140314f6cd89,Pregnancy-related risk,2012-03-05,2,1,10,0,1,0,0
+aaa1801a-51d1-4b7e-a5b8-7e8547be60a8,Congestive heart failure,1990-03-26,3,1,2,0,0,0,0
+fd3acd35-add1-4634-8c90-68ed0f638fde,Congestive heart failure,2009-09-28,1,1,2,0,0,0,0
+ea521af0-e6c4-4a3c-899c-89c35c49287d,Anemia diagnosis (not iron-specific),1985-10-17,2,0,0,0,0,0,0
+097079b1-ff8f-4ee0-8ce3-0ea744ecfa21,Pregnancy-related risk,2019-10-23,18,2,9,1,0,0,0
+be33d994-f841-40a4-9410-66555cf90fed,Pregnancy-related risk,2013-08-13,5,1,6,0,1,0,0
+eaa47c11-c363-48a2-b6d6-7382de05bec5,Anemia diagnosis (not iron-specific),1990-01-08,0,1,0,0,0,0,0
+55f5ca08-6b25-4f13-9bf8-b3f0b3301647,Congestive heart failure,2006-04-29,2,0,2,0,0,0,0
+fc448035-8fc9-4893-b4eb-d1b90fc8742c,Pregnancy-related risk,2013-11-02,4,1,23,1,0,0,0
+7a8d17ee-0ec1-4dcc-8304-4e42ccaa6a38,Pregnancy-related risk,2016-01-08,2,1,4,1,0,0,0
+c518f618-304a-4153-af34-b11caaa566bd,Pregnancy-related risk,2010-10-05,0,1,11,0,0,0,0
+982bbe5d-4df1-43d6-bc53-a80eaaa96a9b,Pregnancy-related risk,1972-09-05,0,1,0,0,0,0,0
+e0503bf7-6b9e-4c70-9dc8-35b0bf3cd50b,Pregnancy-related risk,2011-09-01,0,2,13,0,1,0,0
+e4f1bd35-93ae-418b-b8cf-d39c3fbb069c,Pregnancy-related risk,1984-12-03,1,1,1,0,0,0,0
+d324d82b-14a4-4a6d-a6f9-b76a1b83701a,Anemia diagnosis (not iron-specific),1990-04-25,1,2,3,0,0,0,1
+e3386a13-d652-45fe-abd9-f01d1b023e6f,Anemia diagnosis (not iron-specific),2000-01-04,0,1,0,0,0,0,0
+88587157-4de8-4459-b6d4-fd571b847575,Pregnancy-related risk,2014-05-31,2,1,13,0,0,0,0
+c3d53676-4539-4ac7-98a9-cc893eb9f63b,Pregnancy-related risk,2019-06-30,4,1,4,0,0,0,0
+60320709-0445-4112-ab79-1997cc6f3822,Anemia diagnosis (not iron-specific),1996-05-15,2,2,9,0,7,0,1
+5bee22a4-3260-4bf7-9666-281fc8f1eeb9,Pregnancy-related risk,1995-08-24,0,1,0,0,0,0,0
+c71fe37e-26f4-4b41-b017-5be7b5e129fe,Pregnancy-related risk,2015-06-14,4,1,13,0,1,0,0
+173c7abc-b19b-4533-aa53-7156b53df51f,Anemia diagnosis (not iron-specific),1993-06-02,0,2,3,0,1,0,0
+508d609e-4740-4458-a1b0-3d2fcb0ba804,Pregnancy-related risk,2014-10-21,4,1,7,0,0,0,0
+2e7a30d7-aaac-44df-81c5-d4e4f2f8eedc,Pregnancy-related risk,2011-06-17,1,1,11,0,0,0,0
+3c8151ab-f2b1-44e1-9adc-8f27743496a4,Pregnancy-related risk,2016-07-11,2,1,12,0,0,0,0
+2a6d1e58-88eb-4be0-b6b4-59a471257c2e,Pregnancy-related risk,2006-11-18,1,1,1,0,0,0,0
+c1a6f986-01c4-4581-ba74-bf22d28f8ace,Congestive heart failure,1983-09-07,1,1,3,0,0,0,0
+64fabecd-5e28-4fc1-915a-678c80dac058,Anemia diagnosis (not iron-specific),1994-06-06,0,2,0,0,0,0,0
+47392cc2-4fb3-4431-b56f-c54688671786,Pregnancy-related risk,1983-09-04,3,1,13,0,0,0,0
+f54dd1af-4b23-4781-9c2e-1960bdccac29,Pregnancy-related risk,1999-12-11,0,1,1,0,0,0,0
+5666bbaf-828b-4fd1-a4f9-eeead450816d,Anemia diagnosis (not iron-specific),1990-07-14,0,1,1,0,0,0,0
+5d4057c5-e455-4ab1-aea6-3371566cd862,Congestive heart failure,2000-06-14,1,1,4,0,0,0,0
+9c90166d-96cb-4680-9190-35ab3e448c53,Anemia diagnosis (not iron-specific),2014-05-24,2,0,0,1,0,0,0
+81805635-f2f4-4844-b71b-73578520d372,Anemia diagnosis (not iron-specific),1991-06-04,2,2,1,0,0,0,0
+bb30c9d3-913c-49ce-8cd9-75405f7a19e9,Anemia diagnosis (not iron-specific),1981-09-02,0,2,0,0,0,0,0
+d4adfa2e-89ba-4ae6-9770-ef5a7ec4173a,Pregnancy-related risk,1994-05-25,1,0,0,0,0,0,0
+85a0da4b-6e8d-492c-976b-748e39daf4ef,Anemia diagnosis (not iron-specific),1984-12-25,1,2,0,0,0,0,0
+89105f2f-cfa9-429c-98bf-747f68567ea1,Pregnancy-related risk,1993-04-22,0,1,1,0,0,0,0
+cb7b125f-b586-4ed2-9d0c-77f449f39d8b,Kidney or renal disease risk,2000-05-14,1,1,2,0,0,0,0
+9c4c1885-35af-48b9-a09f-4ea448d40d75,Pregnancy-related risk,1964-04-14,2,1,1,0,0,0,0
+3727f482-9fc1-4d26-8778-01b1b745e037,Pregnancy-related risk,2011-08-17,2,0,11,0,0,0,0
+097f7be5-fdc1-42a8-b54b-65eb48c12cf1,Anemia diagnosis (not iron-specific),1980-07-26,0,1,0,0,0,0,0
+5666bbaf-828b-4fd1-a4f9-eeead450816d,Pregnancy-related risk,1981-06-13,1,1,1,0,0,0,0
+64ab927a-de28-4993-bfb2-d851cb366f73,Pregnancy-related risk,2016-07-04,3,0,2,0,0,0,0
+be3eaf02-0c8a-4729-8b6e-7b40ab016e29,Anemia diagnosis (not iron-specific),1972-01-11,0,1,0,0,0,0,0
+7fef7a7d-0198-457f-8aad-267232321717,Anemia diagnosis (not iron-specific),1979-06-28,0,1,0,0,0,0,0
+f9149e25-1799-44bf-a5aa-449b41161345,Anemia diagnosis (not iron-specific),2000-07-25,1,2,0,0,0,0,1
+b41a82a3-26a8-4ec1-b471-9b0887b989d7,Pregnancy-related risk,1986-05-07,0,1,0,0,0,0,0
+6958e2b0-3c19-4217-8049-2d315c70cab5,Anemia diagnosis (not iron-specific),1985-03-06,0,2,2,0,0,0,0
+41de7636-253c-4360-8cf7-6fc166b0448b,Anemia diagnosis (not iron-specific),1983-06-15,0,1,0,0,0,0,0
+1d97baad-7587-436e-ab04-8f7642432c71,Anemia diagnosis (not iron-specific),2016-10-24,0,2,3,0,1,0,0
+b44b3fde-b4bd-46eb-8ced-caccab915738,Anemia diagnosis (not iron-specific),1990-04-13,0,2,0,0,0,0,0
+9841342b-fa85-4526-9036-b138ffa81a2a,Pregnancy-related risk,2012-01-12,1,1,13,1,0,0,0
+09cbb3f1-c2ed-426c-8c53-ffda77efcb08,Anemia diagnosis (not iron-specific),1990-03-04,0,2,0,0,0,0,1
+19d2cfb8-439b-454a-b47e-5274c219005b,Kidney or renal disease risk,1948-09-05,0,1,3,0,0,0,0
+cad44a83-848c-4019-a175-291a150b9d05,Pregnancy-related risk,2003-08-19,1,0,0,0,0,0,0
+52729daa-66a1-42d6-96c0-691a2d89e819,Pregnancy-related risk,1954-04-06,1,1,1,0,0,0,0
+7148eb24-d1f0-4a5c-93c0-3d2a632f25da,Anemia diagnosis (not iron-specific),1984-04-17,0,1,0,0,0,0,0
+ed965dc3-2f77-4277-8684-b044a57a962b,Anemia diagnosis (not iron-specific),2018-11-30,0,2,0,0,1,0,0
+b88dac97-2026-43e9-b40f-71fc0f888ce7,Pregnancy-related risk,2019-11-14,2,1,6,0,0,0,0
+7d61895a-dbf3-472b-9675-421381787295,Kidney or renal disease risk,2010-01-19,0,1,3,0,0,0,0
+a708bca4-8fc9-4567-8c22-8b13d44f4f45,Kidney or renal disease risk,1986-01-23,0,1,4,0,0,0,0
+3b95da79-b5aa-419a-9558-f4627b02ae3a,Anemia diagnosis (not iron-specific),1993-02-17,0,1,0,0,0,0,0
+aa8dc980-7ac9-41cd-91c8-863dfe401d61,Anemia diagnosis (not iron-specific),1998-11-01,3,3,7,0,7,0,0
+5c1660c6-e806-4e52-a76d-846df0aea060,Anemia diagnosis (not iron-specific),1976-07-21,1,0,0,0,0,0,0
+0707e55b-e026-4361-aa2b-8e922ae62c5a,Anemia diagnosis (not iron-specific),2001-04-01,0,1,0,0,0,0,0
+0c1606c8-637e-4ed3-baf4-67390d8f3956,Pregnancy-related risk,2008-06-27,0,1,0,0,0,0,0
+88ea8573-863c-47e3-b144-b810c63156a0,Anemia diagnosis (not iron-specific),2004-11-04,0,2,0,0,0,0,0
+21a5c5d3-a090-450d-91c1-a9bf3f2902d1,Anemia diagnosis (not iron-specific),2005-03-17,0,1,0,0,0,0,0
+058590f8-c0f3-40c1-ac80-246437499d5d,Anemia diagnosis (not iron-specific),2008-04-24,0,2,0,0,0,0,1
+8a9df121-e012-457c-ade0-ead804d93818,Anemia diagnosis (not iron-specific),1977-01-25,0,2,0,0,0,0,0
+e033651a-9391-4ca7-abe5-3823b60a12d9,Anemia diagnosis (not iron-specific),1990-10-31,0,2,0,0,0,0,0
+6aa4b3c1-4b16-479e-a618-0fc47fb99f6e,Anemia diagnosis (not iron-specific),2017-09-15,0,2,0,0,1,0,0
+5c06120a-9af5-4204-951b-7a8bfc465df3,Anemia diagnosis (not iron-specific),1994-04-13,0,2,2,0,0,0,0
+e0503bf7-6b9e-4c70-9dc8-35b0bf3cd50b,Anemia diagnosis (not iron-specific),2011-09-01,0,2,13,0,1,0,0
+8abe8efb-d431-4465-ad3b-7b3f301b845f,Pregnancy-related risk,1983-11-29,0,1,0,0,0,0,0
+d286528e-a39a-4c04-8545-5e648f781052,Anemia diagnosis (not iron-specific),2014-04-15,2,0,1,1,1,0,0
+d011ac4d-34e9-4887-a0bf-cf7b8a6f4abb,Anemia diagnosis (not iron-specific),2016-03-05,1,2,2,0,1,0,0
+3fe783d9-b8f8-4d21-b320-4fb7745702db,Pregnancy-related risk,2002-05-18,0,1,0,0,0,0,0
+88587157-4de8-4459-b6d4-fd571b847575,Anemia diagnosis (not iron-specific),2003-08-23,0,2,0,0,0,0,0
+53f3587e-b9bf-473a-b36e-62f0e1946fa1,Kidney or renal disease risk,2007-04-14,2,1,5,0,0,0,0
+77a0cd86-92bb-4c6d-a91a-49ee66e353b9,Anemia diagnosis (not iron-specific),2012-09-15,4,0,11,2,0,0,0
+88ea8573-863c-47e3-b144-b810c63156a0,Kidney or renal disease risk,2007-11-22,0,1,1,0,0,0,0
+4877881d-b098-4299-9075-febe1b3b8934,Anemia diagnosis (not iron-specific),1997-04-08,0,1,0,0,0,0,0
+542a3d97-d840-4f63-9cc7-5110ce3f7e82,Anemia diagnosis (not iron-specific),1998-10-22,0,1,0,0,0,0,0
+9841342b-fa85-4526-9036-b138ffa81a2a,Anemia diagnosis (not iron-specific),2018-03-29,4,2,13,0,1,0,0
+eabfe6f1-0b13-43b2-9b6e-291363b2f856,Congestive heart failure,2016-04-26,5,0,5,0,0,0,0
+fb91570f-6f79-4d03-bf4f-d3d58138328e,Anemia diagnosis (not iron-specific),1964-03-07,0,2,0,0,0,0,1
+505609ce-7420-4cad-8c97-e1c42c4c79c7,Anemia diagnosis (not iron-specific),2015-04-20,9,0,9,1,0,0,0
+d6a2da1f-ef65-4292-b637-8a0d6ac9b3ec,Anemia diagnosis (not iron-specific),1964-06-06,0,1,1,0,0,0,0
+8d202c65-427d-4190-8c28-3aa27e1a9f4c,Pregnancy-related risk,2011-05-13,3,1,12,0,0,0,0
+1e52e4fe-13c7-41ad-8b3e-5933fdd553c4,Pregnancy-related risk,2018-05-26,1,1,10,0,0,0,0
+9423451c-8c37-4700-a059-f8c2f9c636b0,Pregnancy-related risk,2015-09-21,1,2,13,1,1,0,0
+4a52ea9c-d410-4b78-a4da-6053e2ed0787,Pregnancy-related risk,2009-05-09,1,1,2,0,0,0,0
+a7b167c9-6230-4a8f-b808-9ada2dd35973,Anemia diagnosis (not iron-specific),2017-06-11,10,3,13,1,2,0,0
+efa3e04c-ec23-46e4-9431-a73492ad32a5,Congestive heart failure,2014-01-26,1,1,4,0,0,0,0
+0149d553-f571-4e99-867e-fcb9625d07c2,Anemia diagnosis (not iron-specific),2001-08-23,0,1,0,0,0,0,0
+5afd4157-103e-4838-9166-22c8a7104b30,Pregnancy-related risk,2014-02-06,4,1,12,0,0,0,0
+7e4e6d32-15cd-4d5f-a4cc-e5c95ab35eb0,Pregnancy-related risk,1993-11-23,1,1,1,0,0,0,0
+f830d725-640c-4c94-972a-61207b748347,Anemia diagnosis (not iron-specific),2018-01-21,2,1,1,0,1,0,0
+c76902dd-7c4a-4c83-aee0-933dee295bac,Pregnancy-related risk,2010-01-07,0,1,5,0,0,0,0
+96d27517-8187-4346-bfdb-83188cc4bddf,Anemia diagnosis (not iron-specific),2020-01-20,3,0,4,1,0,0,0
+875d9a6a-1c7e-44a9-96a0-b4ba92e40841,Anemia diagnosis (not iron-specific),2002-07-31,2,0,0,0,0,0,0
+5137bcf1-9fc6-4187-8d8a-da1624e21751,Pregnancy-related risk,1972-09-28,0,1,0,0,0,0,0
+9b745b3c-c385-44cf-b4cb-448b67e58389,Anemia diagnosis (not iron-specific),2020-03-30,0,2,0,0,1,0,0
+77f8a626-c96e-4aca-ad5a-755eaeb975cc,Pregnancy-related risk,2002-06-18,0,1,0,0,0,0,0
+3dd2dd29-7cd0-48f7-b859-136c6e9d36e0,Kidney or renal disease risk,1972-05-20,2,1,2,0,0,0,0
+be33d994-f841-40a4-9410-66555cf90fed,Anemia diagnosis (not iron-specific),2013-09-03,6,2,3,0,1,0,0
+938c1e2f-10d7-47cd-820b-83dcf6293247,Anemia diagnosis (not iron-specific),1994-04-02,0,2,0,0,0,0,0
+1d996507-b0e3-4ef8-ab62-9db3bd808105,Congestive heart failure,1997-09-03,4,1,6,1,0,0,0
+137acc1b-dbca-473e-84bb-fe1baaf98819,Anemia diagnosis (not iron-specific),1930-01-12,0,1,0,0,0,0,0
+13c98b78-98e9-41fb-a29a-686d005d98f7,Anemia diagnosis (not iron-specific),1997-06-05,0,2,0,0,0,0,0
+926fc2c9-0e8c-4dd4-a00a-6d37a01dd304,Pregnancy-related risk,1997-06-12,0,1,0,0,0,0,0
+cd1d1f54-e4ea-458e-a264-b3e9c57d902e,Pregnancy-related risk,1995-03-30,1,1,1,0,0,0,0
+9e5a9e59-cfe3-42de-8c2e-76ef7e2efa5f,Congestive heart failure,2009-05-12,2,1,3,0,0,0,0
+16fe231f-5db5-4213-9ce0-ba1944eac066,Pregnancy-related risk,1985-09-27,3,1,12,0,0,0,0
+55de6142-7bb1-47f0-95c3-29fda996ef6b,Congestive heart failure,2019-01-16,3,1,7,0,0,0,0
+9394cb52-7d92-4577-976e-d017af06ed8f,Pregnancy-related risk,2006-04-22,1,0,0,0,0,0,0
+8a1d2c26-0774-4526-916f-1148e0357b5d,Pregnancy-related risk,2004-08-27,0,1,0,0,0,0,0
+19ad9612-4b4d-4a82-a323-c07168ec4d85,Anemia diagnosis (not iron-specific),1970-09-23,0,2,0,0,0,0,0
+6cf93841-acdc-45c5-aca5-7c3efefd7494,Pregnancy-related risk,2004-08-31,0,1,1,0,0,0,0
+11e1992a-28b9-4ee8-bb7f-1c3a7041b57d,Pregnancy-related risk,1980-04-27,0,1,1,0,0,0,0
+53b564bb-24b2-47ac-91ba-054e71a108e9,Anemia diagnosis (not iron-specific),1996-09-25,0,2,0,0,0,0,0
+f290b494-c6de-40ee-98a3-ebb9d43cfd70,Pregnancy-related risk,2010-07-03,1,1,10,0,0,0,0
+bfb6537b-535a-4f31-9a56-073220f96a17,Anemia diagnosis (not iron-specific),2017-09-13,3,0,10,1,0,0,0
+e4f1bd35-93ae-418b-b8cf-d39c3fbb069c,Anemia diagnosis (not iron-specific),2006-10-16,0,2,0,0,0,0,0
+cfbc4b3a-979a-4773-aed4-c922e5c4729c,Anemia diagnosis (not iron-specific),2003-03-07,2,0,0,0,0,0,0
+0ba90366-87ad-4f9d-9bcd-c11e63eb6f27,Congestive heart failure,2016-03-07,1,1,3,0,0,0,0
+252fc319-ec89-43e4-b28c-184e9b5542b4,Anemia diagnosis (not iron-specific),2010-12-06,1,2,3,0,1,0,0
+257af8d7-ba2c-4394-9a30-691e6f80d8a6,Pregnancy-related risk,1946-08-29,1,0,0,0,0,0,0
+fca3178e-fb68-41c3-8598-702d3ca68b96,Anemia diagnosis (not iron-specific),1966-09-17,0,2,0,0,0,0,0
+30dd9636-c7bd-44ff-a5c9-20104ece45bd,Congestive heart failure,2019-12-07,3,1,2,1,0,0,0
+08180c75-dd87-418f-95ff-06fb2f434713,Pregnancy-related risk,1983-11-09,0,1,0,0,0,0,0
+83719bd7-7a41-4c87-93f9-c5de4db6a14a,Pregnancy-related risk,2013-07-03,1,1,10,0,0,0,0
+2ffe9369-24e4-414b-8973-258fad09313a,Anemia diagnosis (not iron-specific),1981-09-22,0,2,0,0,0,0,0
+adfc3c2f-30be-430d-8f07-9070dab88c64,Congestive heart failure,2017-03-10,1,1,3,0,0,0,0
+aeca5d2f-fa40-4b20-b684-052a771faa5c,Pregnancy-related risk,2016-10-29,4,1,11,1,0,0,0
+85a07bb9-eb47-4fb3-8f96-c0a77f4821c6,Anemia diagnosis (not iron-specific),1994-07-27,0,2,0,0,0,0,0
+a28437ae-41af-497f-92f7-f1ed28d35a74,Pregnancy-related risk,1991-03-09,0,1,0,0,0,0,0
+b3b436fa-3895-4085-ba32-6f1f2a9bfa7e,Anemia diagnosis (not iron-specific),2010-06-09,0,2,0,0,1,0,0
+96ef7705-0147-4231-af55-dde1c20ead7e,Pregnancy-related risk,1989-09-29,1,1,1,0,0,0,0
+91652d14-6f12-41a1-96fc-3048d111c4c8,Anemia diagnosis (not iron-specific),1992-02-25,2,0,0,0,0,0,0
+0ec17b30-0776-4c70-8735-a09dfc709d3c,Pregnancy-related risk,2016-03-09,1,1,4,0,0,0,0
+89752052-a38b-45f0-a590-3950bbb67bec,Anemia diagnosis (not iron-specific),2001-02-28,0,2,0,0,0,0,1
+acb4817f-0ece-41d8-b179-82397a95a44a,Pregnancy-related risk,2016-04-18,1,1,11,0,0,0,0
+e3bba570-83a5-4105-b766-27582eb6ba59,Pregnancy-related risk,1989-07-10,0,1,0,0,0,0,0
+2a5c04ff-26e1-4406-831f-be13b540cbc7,Pregnancy-related risk,1999-03-08,1,1,3,0,0,0,0
+ba2c1e9f-16e0-427b-97db-dc639daeaaee,Anemia diagnosis (not iron-specific),2016-11-22,1,1,3,0,1,0,0
+d5e83f2c-49a2-4494-8933-da8809416e11,Pregnancy-related risk,1995-12-15,1,1,2,0,0,0,0
+62494529-9ceb-486a-9510-22f7cb454dd6,Pregnancy-related risk,2011-12-02,2,2,11,0,2,0,0
+49303b96-1de5-4365-9ff3-bf960aea755b,Pregnancy-related risk,1971-01-22,1,1,1,0,0,0,0
+9ec4030b-2529-4647-b325-b04c6b44874b,Kidney or renal disease risk,2009-04-01,0,1,1,0,0,0,0
+2c71dd97-7085-416a-aa07-d675bbe3adf2,Kidney or renal disease risk,1982-03-19,1,1,2,0,0,0,0
+dac134fa-7f57-4211-923a-e943a5c11d93,Anemia diagnosis (not iron-specific),2003-05-15,1,0,0,0,0,0,0
+76353d9c-9861-4ca8-8d24-d458b1e88da5,Pregnancy-related risk,1991-03-12,0,1,1,0,0,0,0
+734dfbb9-6320-4fee-b21a-175d3f2f14ba,Anemia diagnosis (not iron-specific),1979-08-01,0,1,0,0,0,0,0
+7b99cacb-b260-4c0a-a027-d1be359d9876,Anemia diagnosis (not iron-specific),1994-08-26,0,2,0,0,0,0,0
+19d6d7d2-4f3c-437c-9378-6c9a730c3f96,Anemia diagnosis (not iron-specific),1996-04-28,0,2,0,0,1,0,0
+064341a0-60ed-4d68-88a7-5c730572d285,Congestive heart failure,2017-11-06,1,1,3,0,0,0,0
+6abdc54d-098e-47dc-8e11-701464386c67,Pregnancy-related risk,1941-08-03,1,1,2,0,0,0,0
+b13d1ddc-4cc8-4b99-a4af-cb0c0c6f605a,Pregnancy-related risk,1996-11-20,0,1,0,0,0,0,0
+13a3a783-ecc5-4ec5-b3dc-168b15cebb88,Kidney or renal disease risk,1985-10-18,0,1,1,0,0,0,0
+0b48619e-1602-488c-a23b-3d4937153dff,Pregnancy-related risk,2009-11-30,0,1,5,0,0,0,0

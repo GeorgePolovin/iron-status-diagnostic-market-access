@@ -1,0 +1,5 @@
+risk_segment,evidence_category,unique_patients,share_of_unique_target_patients_pct,average_encounters_per_patient,total_encounters,patients_with_multiple_risk_segments,total_unique_target_patients,states_represented,opportunity_rank
+Pregnancy-related risk,Clinical risk population,332,58.97,52.18,17323,109,563,1,1
+Anemia diagnosis (not iron-specific),Relevant diagnosis; anemia etiology unspecified,300,53.29,76.29,22886,132,563,1,2
+Congestive heart failure,Clinical risk population,57,10.12,66.54,3793,36,563,1,3
+Kidney or renal disease risk,Clinical risk population,37,6.57,312.14,11549,35,563,1,4

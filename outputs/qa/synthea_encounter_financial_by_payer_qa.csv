@@ -1,0 +1,11 @@
+payer_name,no_insurance_flag,encounter_count,unique_patients,total_claim_cost,claim_cost_share_pct,payer_coverage_recorded,claim_cost_minus_payer_coverage,diagnostic_coverage_to_claim_cost_pct
+Medicaid,0,7966,415,1021809.77,14.88,593118.09,428691.68,58.05
+Dual Eligible,0,715,24,92194.39,1.34,30595.84,61598.55,33.19
+Commercial plan B,0,2273,210,293580.68,4.27,225174.64,68406.04,76.7
+Medicare,0,9645,193,1245644.86,18.14,795049.22,450595.64,63.83
+Commercial plan F,0,4115,235,526843.1,7.67,286991.2,239851.9,54.47
+Commercial plan A,0,3766,244,485641.51,7.07,304081.59,181559.92,62.61
+Commercial plan C,0,3433,240,442837.91,6.45,284540.43,158297.48,64.25
+Commercial plan D,0,4654,260,598630.48,8.72,352213.96,246416.52,58.84
+Commercial plan E,0,6604,262,850699.16,12.39,435626.6,415072.56,51.21
+NO_INSURANCE,1,10175,693,1310431.09,19.08,0.0,1310431.09,0.0

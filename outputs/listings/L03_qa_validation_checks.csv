@@ -1,0 +1,26 @@
+source,check_order,check_name,observed_value,expected_value,status
+NHANES,1,Core analysis population (ferritin + Hb),10546,10546,PASS
+NHANES,2,Primary segment: non-pregnant females 20-44,1517,1517,PASS
+NHANES,3,Iron/anemia stages sum to 100%,100.0,100 +/- 0.05,PASS
+NHANES,4,Stage counts reconcile to primary segment,1517,1517,PASS
+NHANES,5,Threshold mart rows (4 segments x 3 thresholds),12,12,PASS
+NHANES,6,Risk segment mart rows,10,10,PASS
+NHANES,7,Adult segment table: one row per participant,0,0 duplicates,PASS
+MEPS,1,Adults 18+ with positive person weight,14768,equals reference segment n,PASS
+MEPS,2,Weighted adult population (millions),259.7,"240-275 (US adults, 2023)",PASS
+MEPS,3,Segment marts aligned (utilization vs insurance),9,9 matching segments,PASS
+Synthea,1,Unique target patients,563,563,PASS
+Synthea,2,Patient-segment membership grain,726,726 memberships; no duplicate patient-segment rows,PASS
+Synthea,3,Target encounter mart grain,36706,"36,706 rows = 36,706 unique encounters",PASS
+Synthea,4,Target-condition encounter count,1143,"1,143",PASS
+Synthea,5,Organization mart grain,622,One row per organization,PASS
+Synthea,6,Latest payer mix reconciliation,558,558 patients with payer history,PASS
+Synthea,7,Latest payer mix share,99.99%,Approximately 100%,PASS
+Synthea,8,Payer encounter share,100.0%,Approximately 100%,PASS
+Synthea,9,Patient-segment pathway grain,726,One row per patient + risk segment,PASS
+Synthea,10,Encounter workflow mart grain,36706,One row per encounter,PASS
+Synthea,11,Utilization segment mart,4,4 risk segments,PASS
+Synthea,12,Workflow segment mart,4,4 risk segments,PASS
+Synthea,13,Encounter-setting share,100.01%,Approximately 100%,PASS
+Synthea,14,Target patients with CBC/red-cell signal,563,563 synthetic target patients,PASS
+Synthea,15,Ferritin / iron-study observation availability,0,0 rows expected in this Synthea export,PASS

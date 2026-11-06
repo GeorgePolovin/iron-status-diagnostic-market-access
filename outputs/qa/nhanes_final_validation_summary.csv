@@ -1,0 +1,8 @@
+check_order,check_name,observed_value,expected_value,status
+1,Core analysis population (ferritin + Hb),10546,10546,PASS
+2,Primary segment: non-pregnant females 20-44,1517,1517,PASS
+3,Iron/anemia stages sum to 100%,100.0,100 +/- 0.05,PASS
+4,Stage counts reconcile to primary segment,1517,1517,PASS
+5,Threshold mart rows (4 segments x 3 thresholds),12,12,PASS
+6,Risk segment mart rows,10,10,PASS
+7,Adult segment table: one row per participant,0,0 duplicates,PASS

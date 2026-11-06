@@ -1,0 +1,9 @@
+source,population_step,unweighted_n
+NHANES,Participants in demographics file,15560
+NHANES,With measured ferritin and hemoglobin (core lab population),10546
+NHANES,Adults 18+ in core lab population,8355
+NHANES,Primary segment: non-pregnant women 20-44,1517
+MEPS,Persons in 2023 full-year file,18919
+MEPS,Adults 18+ with positive person weight,14768
+Synthea,Synthetic patients,1171
+Synthea,"Target cohort (anemia, pregnancy, kidney, heart-failure conditions)",563

@@ -1,0 +1,16 @@
+organization_opportunity_rank,organization_name,organization_city,unique_target_patients,target_condition_encounters,repeat_target_patient_pct,anemia_segment_patients,pregnancy_segment_patients,kidney_segment_patients,heart_failure_segment_patients,ambulatory_encounters,emergency_encounters
+1,Organization 0960,CAMBRIDGE,38,50.0,92.11,17,23,3,6,468.0,155.0
+2,Organization 0454,CAMBRIDGE,34,21.0,88.24,12,22,3,5,263.0,55.0
+3,Organization 0152,MILFORD,26,28.0,96.15,15,11,3,4,352.0,52.0
+4,Organization 0917,MELROSE,25,45.0,100.0,13,16,2,3,598.0,55.0
+5,Organization 0146,FALL RIVER,24,20.0,95.83,12,14,0,0,173.0,23.0
+6,Organization 0939,SOUTH WEYMOUTH,22,12.0,95.45,10,16,1,1,120.0,25.0
+7,Organization 0075,MILTON,21,36.0,90.48,11,15,1,1,296.0,23.0
+7,Organization 1024,FALL RIVER,21,26.0,95.24,9,15,0,1,242.0,39.0
+8,Organization 0836,BROCKTON,18,15.0,77.78,12,10,4,0,160.0,14.0
+8,Organization 0911,FALMOUTH,18,20.0,88.89,8,10,0,3,247.0,33.0
+8,Organization 0245,NORWOOD,18,39.0,100.0,8,15,0,5,418.0,38.0
+9,Organization 0480,BURLINGTON,17,29.0,100.0,8,13,1,0,312.0,32.0
+9,Organization 0400,HOLYOKE,17,24.0,100.0,12,8,2,4,333.0,59.0
+9,Organization 0313,SALEM,17,33.0,94.12,8,9,2,1,256.0,33.0
+10,Organization 0769,LOWELL,16,22.0,93.75,6,9,0,3,177.0,34.0

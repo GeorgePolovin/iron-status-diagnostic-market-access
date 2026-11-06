@@ -1,0 +1,11 @@
+segment_order,segment_type,population_segment,unweighted_n,weighted_population_millions,unweighted_ferritin_lt15_n,weighted_ferritin_lt15_pct,weighted_ferritin_lt15_millions,weighted_ferritin_lt30_pct,weighted_anemia_pct,weighted_lt15_without_anemia_pct,weighted_pct_of_lt15_without_anemia,weighted_chronic_disease_id_pct,weighted_uninsured_pct,weighted_no_routine_place_pct,weighted_below_poverty_pct,weighted_income_4x_poverty_plus_pct,unweighted_median_ferritin_ng_ml,sample_size_note
+1,Reference,All non-pregnant adults 18+,8279,232.73,462,4.91,11.43,13.36,7.12,2.39,48.68,54.31,13.31,16.6,12.8,39.75,107.0,Adequate sample
+2,Reference,Men 18+,4056,113.33,52,0.97,1.1,4.01,4.6,0.45,45.82,33.51,16.12,21.76,11.61,42.43,158.0,Adequate sample
+3,Reference,Non-pregnant women 18-49,2053,61.19,346,13.9,8.5,33.62,10.6,6.99,50.32,88.14,14.6,17.5,17.7,34.46,40.2,Adequate sample
+4,Priority segment,Menstruating women 18-49,1651,49.08,307,15.25,7.49,37.18,11.61,7.51,49.26,91.96,14.52,17.35,17.87,34.32,36.8,Adequate sample
+5,Priority segment,Highly active women 18-49,368,13.09,56,13.15,1.72,39.3,6.56,8.17,62.1,93.55,8.59,16.51,16.61,44.09,37.2,Adequate sample
+6,Priority segment,Lower-income women 18-49,469,9.64,87,16.46,1.59,39.44,14.95,7.33,44.54,89.39,27.41,27.09,100.0,0.0,38.2,Adequate sample
+7,Comparison,Highly active men 18+,800,25.01,7,0.34,0.09,2.78,1.06,0.13,38.49,36.9,15.97,23.79,7.78,51.57,136.5,Adequate sample
+8,Clinician-supervised,Pregnant women 20-44,76,2.12,21,24.21,0.51,56.28,11.66,16.28,67.24,98.61,9.82,15.81,20.47,34.04,24.6,Interpret with caution: n < 100
+9,Clinician-supervised,Adults with weak/failing kidneys,331,7.42,9,2.92,0.22,10.42,20.27,1.14,39.21,45.81,9.09,5.95,14.7,31.64,136.0,Adequate sample
+10,Clinician-supervised,Adults with heart failure,297,6.0,12,2.48,0.15,8.4,17.98,0.56,22.54,51.1,2.25,3.09,13.2,24.22,128.0,Adequate sample

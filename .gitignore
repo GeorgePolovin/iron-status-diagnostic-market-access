@@ -1,0 +1,12 @@
+# Public source data is downloaded by scripts/download_data.py, not committed
+data/raw/
+# Rebuilt by run_pipeline.py
+database/
+# Python / editor
+__pycache__/
+*.pyc
+.venv/
+.vscode/
+.ipynb_checkpoints/
+.DS_Store
+~$*

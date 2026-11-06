@@ -1,0 +1,12 @@
+display_order,visualization_name,source_table,source_grain,commercial_theme,business_question,recommended_use
+1,Patient Segment Opportunity,mart.risk_segment_clinical_opportunity,One row per overlapping clinical risk segment,Unmet need / segmentation,Which clinical populations create the largest potential diagnostic opportunity?,HEADLINE
+2,Top Provider Organizations,mart.organization_opportunity,One row per organization,Provider-group targeting,Which organizations encounter the greatest number of target patients?,HEADLINE
+3,Organization Opportunity Matrix,mart.organization_opportunity,One row per organization,Provider-group targeting,Which organizations combine high target-patient volume with high target-condition encounter volume?,HEADLINE
+4,Last Observed Payer-Period Mix,mart.latest_recorded_payer_mix,One row per payer,Access,How fragmented is the last observed synthetic payer mix among target patients with payer history?,HEADLINE
+5,Payer Target-Condition Encounters,mart.payer_encounter_opportunity,One row per payer,Access / adoption,Which payers touch the greatest number of target-condition encounters?,SUPPORTING
+6,Recorded Uninsured Exposure,mart.uninsured_exposure_summary,One row for the target cohort,Access,How many target patients had a recorded uninsured coverage period?,SUPPORTING
+7,Utilization Around Segment Diagnosis,mart.utilization_pathway_by_segment,One row per overlapping clinical risk segment,Economic hypothesis,How does 365-day utilization change before versus after the first segment-specific diagnosis?,HEADLINE
+8,Target Encounters by Care Setting,mart.target_condition_encounter_setting,One row per encounter class,Adoption / workflow,Where do mapped target-condition encounters occur?,HEADLINE
+9,CBC / Iron-Treatment Workflow,mart.workflow_signal_by_segment,One row per overlapping clinical risk segment,Workflow,Which target segments interact with CBC/red-cell and iron-treatment workflows?,APPENDIX
+10,City Concentration,mart.target_market_by_city,One row per city,Geographic concentration,Where are synthetic target-patient encounters geographically concentrated?,SUPPORTING
+11,Provider Detail,mart.provider_opportunity,One row per provider-within-organization,Drill-down,Which individual synthetic providers appear within higher-opportunity organizations?,APPENDIX

@@ -1,0 +1,5 @@
+risk_segment,unique_patients,average_encounters_pre_365,median_encounters_pre_365,average_encounters_post_365,median_encounters_post_365,average_change_in_encounters,patients_with_higher_post_utilization,patients_with_higher_post_utilization_pct,patients_with_cbc_pre_365,patients_with_cbc_pre_365_pct,patients_with_cbc_on_or_post_365,patients_with_cbc_on_or_post_365_pct,patients_with_iron_medication_on_or_post_365
+Kidney or renal disease risk,37,1.08,0.0,3.11,2.0,2.03,27,72.97,2,5.41,2,5.41,0
+Congestive heart failure,57,2.88,2.0,4.51,3.0,1.63,43,75.44,11,19.3,7,12.28,0
+Anemia diagnosis (not iron-specific),300,0.9,0.0,1.43,0.0,0.54,64,21.33,19,6.33,70,23.33,29
+Pregnancy-related risk,332,1.39,1.0,4.85,1.5,3.46,169,50.9,24,7.23,30,9.04,1

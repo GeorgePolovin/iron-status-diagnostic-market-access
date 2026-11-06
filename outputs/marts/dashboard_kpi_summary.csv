@@ -1,0 +1,8 @@
+display_order,metric_name,metric_value,metric_unit,interpretation
+1,Target patients,563.0,patients,Synthetic target cohort; clinical segments overlap
+2,Clinical segment memberships,726.0,memberships,"Overlapping anemia, pregnancy, kidney/renal, and CHF segments"
+3,Target-condition encounters,1143.0,encounters,Mapped target-condition encounters in synthetic longitudinal history
+4,Patients with payer history,558.0,patients,Patients with at least one recorded synthetic payer-transition period
+5,Ever recorded uninsured,11.11,percent,Share of target patients with payer history who had at least one recorded uninsured period
+6,Last observed period uninsured,6.45,percent,Synthetic last-observed payer period; not current insurance status
+7,Ambulatory + wellness target encounters,97.12,percent,Share of mapped target-condition encounters occurring in routine ambulatory/wellness settings

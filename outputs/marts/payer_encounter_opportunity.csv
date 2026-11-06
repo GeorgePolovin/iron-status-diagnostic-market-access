@@ -1,0 +1,11 @@
+payer_id,payer_name,no_insurance_flag,unique_target_patients,all_encounters_for_target_patients,target_condition_encounters,organizations_reached,providers_reached,anemia_segment_patients,pregnancy_segment_patients,kidney_segment_patients,heart_failure_segment_patients,synthea_total_claim_cost_qa,synthea_payer_coverage_qa,share_of_target_patients_with_any_encounter_pct,share_of_target_encounters_pct,share_of_target_condition_encounters_pct,diagnostic_coverage_to_claim_cost_pct_qa,payer_patient_opportunity_rank,payer_target_encounter_rank
+7c4411ce-02f1-39b5-b9ec-dfbea9ad3c1a,Medicaid,0,315,6003,312,317,318,116,268,13,24,771058.87,433789.31,55.95,16.35,27.3,56.26,2,1
+b1c428d6-4f07-31e0-90f0-68ffa6ff8c76,NO_INSURANCE,1,367,7358,152,134,134,183,244,27,29,947414.09,0.0,65.19,20.05,13.3,0.0,1,2
+6e2f1a2d-27bd-3701-8d08-dae202c58632,Commercial plan E,0,171,4548,148,203,203,85,124,13,18,586334.61,273115.81,30.37,12.39,12.95,46.58,3,3
+4d71f845-a6a9-3c39-b242-14d25ef86a8d,Commercial plan C,0,152,1845,123,195,195,72,116,9,11,237886.84,143547.16,27.0,5.03,10.76,60.34,5,4
+047f6ec3-6215-35eb-9608-f9dda363a44c,Commercial plan A,0,148,2214,122,194,194,69,111,9,20,285443.54,163371.54,26.29,6.03,10.67,57.23,6,5
+5059a55e-5d6e-34d1-b6cb-d83d16e57bcf,Commercial plan D,0,158,2366,120,194,194,66,119,11,21,304559.16,167277.96,28.06,6.45,10.5,54.92,4,6
+d47b3510-2895-3b70-9897-342d681c769d,Commercial plan F,0,141,2196,100,193,193,71,100,11,17,282963.65,135687.92,25.04,5.98,8.75,47.95,7,7
+7caa7254-5050-3b5e-9eae-bd5ea30e809c,Medicare,0,140,8644,32,204,204,86,56,15,34,1116355.7,695585.7,24.87,23.55,2.8,62.31,8,8
+42c4fca7-f8a9-3cd1-982a-dd9751bf3e2a,Commercial plan B,0,120,1020,31,142,142,54,82,5,11,131743.2,95143.4,21.31,2.78,2.71,72.22,9,9
+b3221cfc-24fb-339e-823d-bc4136cbc4ed,Dual Eligible,0,12,512,3,24,24,7,5,1,3,65974.91,20109.64,2.13,1.39,0.26,30.48,10,10

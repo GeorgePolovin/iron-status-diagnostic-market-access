@@ -1,0 +1,4 @@
+definition_order,iron_status_definition,population_unweighted_n,low_iron_unweighted_n,low_iron_without_anemia_unweighted_n,weighted_low_iron_prevalence_pct,weighted_low_iron_without_anemia_population_pct,weighted_pct_of_low_iron_group_without_anemia,weighted_low_iron_without_anemia_population_millions
+1,Ferritin <15,1517,253,114,13.47,7.41,54.99,3.5
+2,Ferritin <30 sensitivity,1517,571,386,33.39,25.22,75.55,11.92
+3,CRP-only inflammation-aware sensitivity,1501,454,291,26.63,19.67,73.88,9.23

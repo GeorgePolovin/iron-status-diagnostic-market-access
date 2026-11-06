@@ -1,0 +1,5 @@
+iron_status_stage,unweighted_n,weighted_population_pct,weighted_population_millions
+Ferritin <15 + anemia,139,6.06,2.87
+Ferritin <15 + no anemia,114,7.41,3.5
+Ferritin >=15 + anemia,97,3.77,1.78
+Ferritin >=15 + no anemia,1167,82.76,39.11

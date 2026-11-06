@@ -1,0 +1,16 @@
+check_order,check_name,observed_value,expected_value,status
+1,Unique target patients,563,563,PASS
+2,Patient-segment membership grain,726,726 memberships; no duplicate patient-segment rows,PASS
+3,Target encounter mart grain,36706,"36,706 rows = 36,706 unique encounters",PASS
+4,Target-condition encounter count,1143,"1,143",PASS
+5,Organization mart grain,622,One row per organization,PASS
+6,Latest payer mix reconciliation,558,558 patients with payer history,PASS
+7,Latest payer mix share,99.99%,Approximately 100%,PASS
+8,Payer encounter share,100.0%,Approximately 100%,PASS
+9,Patient-segment pathway grain,726,One row per patient + risk segment,PASS
+10,Encounter workflow mart grain,36706,One row per encounter,PASS
+11,Utilization segment mart,4,4 risk segments,PASS
+12,Workflow segment mart,4,4 risk segments,PASS
+13,Encounter-setting share,100.01%,Approximately 100%,PASS
+14,Target patients with CBC/red-cell signal,563,563 synthetic target patients,PASS
+15,Ferritin / iron-study observation availability,0,0 rows expected in this Synthea export,PASS

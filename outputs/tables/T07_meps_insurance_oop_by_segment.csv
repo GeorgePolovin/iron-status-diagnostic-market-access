@@ -1,0 +1,10 @@
+segment_order,segment_type,population_segment,unweighted_n,pct_any_private,pct_public_only,pct_uninsured_all_year,pct_below_200pct_fpl,mean_total_expenditure_usd,mean_oop_expenditure_usd,oop_share_of_spend_pct,sample_size_note
+1,Reference,All adults 18+,14768,66.1,26.62,7.28,24.5,8579.0,1106.0,12.89,Adequate sample
+2,Reference,Women 18-49,3402,71.88,20.41,7.71,26.84,6018.0,942.0,15.66,Adequate sample
+3,Iron pathway,Anemia diagnosis (D50/D64),162,50.11,49.1,0.79,35.17,24689.0,1997.0,8.09,Adequate sample
+4,Iron pathway,Iron-deficiency anemia (D50),71,48.56,50.95,0.49,32.37,21084.0,1325.0,6.28,Interpret with caution: n < 100
+5,Women's health,Heavy/irregular menstruation (N92),47,77.14,18.82,4.03,23.13,6156.0,1040.0,16.89,Interpret with caution: n < 100
+6,Women's health,Pregnancy care (Z34),210,68.96,29.02,2.02,34.33,15704.0,1974.0,12.57,Adequate sample
+7,Symptom proxy,Fatigue / dizziness / hair loss,372,63.16,34.13,2.72,23.8,16815.0,2331.0,13.86,Adequate sample
+8,Chronic condition,Chronic kidney disease (N18),40,39.86,60.14,0.0,25.08,26821.0,3199.0,11.93,Interpret with caution: n < 100
+9,Chronic condition,Heart failure (I50),108,35.39,64.61,0.0,39.97,45270.0,3782.0,8.35,Adequate sample

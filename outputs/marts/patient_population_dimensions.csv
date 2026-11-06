@@ -1,0 +1,25 @@
+dimension_type,dimension_value,patient_count,patient_share_pct
+Race,native,13,1.11
+Race,black,101,8.63
+Race,asian,90,7.69
+Race,white,965,82.41
+Race,other,2,0.17
+Ethnicity,nonhispanic,1058,90.35
+Ethnicity,hispanic,113,9.65
+County,Bristol County,105,8.97
+County,Barnstable County,47,4.01
+County,Norfolk County,128,10.93
+County,Hampshire County,35,2.99
+County,Dukes County,5,0.43
+County,Essex County,115,9.82
+County,Berkshire County,24,2.05
+County,Worcester County,150,12.81
+County,Nantucket County,2,0.17
+County,Plymouth County,78,6.66
+County,Suffolk County,132,11.27
+County,Middlesex County,255,21.78
+County,Franklin County,15,1.28
+County,Hampden County,80,6.83
+Gender,F,609,52.01
+Gender,M,562,47.99
+State,Massachusetts,1171,100.0

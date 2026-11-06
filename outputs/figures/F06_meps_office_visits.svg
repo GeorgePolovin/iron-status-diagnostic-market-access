@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="864pt" height="486pt" viewBox="0 0 864 486" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-10-21T13:26:04.329594</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 486 
+L 864 486 
+L 864 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 293.76 388.8 
+L 794.88 388.8 
+L 794.88 92.34 
+L 293.76 92.34 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <path d="M 293.76 388.8 
+L 293.76 92.34 
+" clip-path="url(#p38166fdf69)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_2"/>
+     <g id="text_1">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="293.76" y="404.676953" transform="rotate(-0 293.76 404.676953)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_3">
+      <path d="M 383.245714 388.8 
+L 383.245714 92.34 
+" clip-path="url(#p38166fdf69)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4"/>
+     <g id="text_2">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="383.245714" y="404.676953" transform="rotate(-0 383.245714 404.676953)">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_5">
+      <path d="M 472.731429 388.8 
+L 472.731429 92.34 
+" clip-path="url(#p38166fdf69)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6"/>
+     <g id="text_3">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="472.731429" y="404.676953" transform="rotate(-0 472.731429 404.676953)">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_7">
+      <path d="M 562.217143 388.8 
+L 562.217143 92.34 
+" clip-path="url(#p38166fdf69)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8"/>
+     <g id="text_4">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="562.217143" y="404.676953" transform="rotate(-0 562.217143 404.676953)">15</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_9">
+      <path d="M 651.702857 388.8 
+L 651.702857 92.34 
+" clip-path="url(#p38166fdf69)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10"/>
+     <g id="text_5">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="651.702857" y="404.676953" transform="rotate(-0 651.702857 404.676953)">20</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_11">
+      <path d="M 741.188571 388.8 
+L 741.188571 92.34 
+" clip-path="url(#p38166fdf69)" style="fill: none; stroke: #e0e7ec; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12"/>
+     <g id="text_6">
+      <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="741.188571" y="404.676953" transform="rotate(-0 741.188571 404.676953)">25</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 13px; font-family: 'DejaVu Sans'; text-anchor: middle; fill: #556b7a" x="544.32" y="421.677969" transform="rotate(-0 544.32 421.677969)">Mean office-based visits per person, 2023 (weighted)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_13"/>
+     <g id="text_8">
+      <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="287.76" y="120.2568" transform="rotate(-0 287.76 120.2568)">All adults 18+</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_14"/>
+     <g id="text_9">
+      <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="287.76" y="151.521868" transform="rotate(-0 287.76 151.521868)">Women 18-49</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_15"/>
+     <g id="text_10">
+      <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="287.76" y="182.787912" transform="rotate(-0 287.76 182.787912)">Anemia diagnosis (D50/D64)</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_16"/>
+     <g id="text_11">
+      <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="287.76" y="214.053468" transform="rotate(-0 287.76 214.053468)">Iron-deficiency anemia (D50)</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_17"/>
+     <g id="text_12">
+      <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="287.76" y="245.319023" transform="rotate(-0 287.76 245.319023)">Heavy/irregular menstruation (N92)</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_18"/>
+     <g id="text_13">
+      <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="287.76" y="276.584091" transform="rotate(-0 287.76 276.584091)">Pregnancy care (Z34)</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_19"/>
+     <g id="text_14">
+      <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="287.76" y="307.850135" transform="rotate(-0 287.76 307.850135)">Fatigue / dizziness / hair loss</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_20"/>
+     <g id="text_15">
+      <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="287.76" y="339.115691" transform="rotate(-0 287.76 339.115691)">Chronic kidney disease (N18)</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_21"/>
+     <g id="text_16">
+      <text style="font-size: 12.5px; font-family: 'DejaVu Sans'; text-anchor: end; fill: #172e3d" x="287.76" y="370.381247" transform="rotate(-0 287.76 370.381247)">Heart failure (I50)</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 293.76 105.815455 
+L 423.693257 105.815455 
+L 423.693257 125.200099 
+L 293.76 125.200099 
+z
+" clip-path="url(#p38166fdf69)" style="fill: #b8c4ce"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 293.76 137.08101 
+L 419.397943 137.08101 
+L 419.397943 156.465655 
+L 293.76 156.465655 
+z
+" clip-path="url(#p38166fdf69)" style="fill: #b8c4ce"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 293.76 168.346566 
+L 558.995657 168.346566 
+L 558.995657 187.731211 
+L 293.76 187.731211 
+z
+" clip-path="url(#p38166fdf69)" style="fill: #008c99"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 293.76 199.612122 
+L 590.315657 199.612122 
+L 590.315657 218.996767 
+L 293.76 218.996767 
+z
+" clip-path="url(#p38166fdf69)" style="fill: #008c99"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 293.76 230.877678 
+L 423.514286 230.877678 
+L 423.514286 250.262322 
+L 293.76 250.262322 
+z
+" clip-path="url(#p38166fdf69)" style="fill: #008c99"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 293.76 262.143233 
+L 535.192457 262.143233 
+L 535.192457 281.527878 
+L 293.76 281.527878 
+z
+" clip-path="url(#p38166fdf69)" style="fill: #008c99"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 293.76 293.408789 
+L 558.279771 293.408789 
+L 558.279771 312.793434 
+L 293.76 312.793434 
+z
+" clip-path="url(#p38166fdf69)" style="fill: #008c99"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 293.76 324.674345 
+L 707.541943 324.674345 
+L 707.541943 344.05899 
+L 293.76 344.05899 
+z
+" clip-path="url(#p38166fdf69)" style="fill: #d9681f"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 293.76 355.939901 
+L 586.9152 355.939901 
+L 586.9152 375.324545 
+L 293.76 375.324545 
+z
+" clip-path="url(#p38166fdf69)" style="fill: #d9681f"/>
+   </g>
+   <g id="text_17">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="429.0624" y="118.624964" transform="rotate(-0 429.0624 118.624964)">7.3  (n=14,768)</text>
+   </g>
+   <g id="text_18">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="424.767086" y="149.89052" transform="rotate(-0 424.767086 149.89052)">7.0  (n=3,402)</text>
+   </g>
+   <g id="text_19">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="564.3648" y="181.156076" transform="rotate(-0 564.3648 181.156076)">14.8  (n=162)</text>
+   </g>
+   <g id="text_20">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="595.6848" y="212.421632" transform="rotate(-0 595.6848 212.421632)">16.6  (n=71) *</text>
+   </g>
+   <g id="text_21">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="428.883429" y="243.687187" transform="rotate(-0 428.883429 243.687187)">7.2  (n=47) *</text>
+   </g>
+   <g id="text_22">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="540.5616" y="274.952743" transform="rotate(-0 540.5616 274.952743)">13.5  (n=210)</text>
+   </g>
+   <g id="text_23">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="563.648914" y="306.218299" transform="rotate(-0 563.648914 306.218299)">14.8  (n=372)</text>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="712.911086" y="337.483855" transform="rotate(-0 712.911086 337.483855)">23.1  (n=40) *</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 12px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="592.284343" y="368.749411" transform="rotate(-0 592.284343 368.749411)">16.4  (n=108)</text>
+   </g>
+  </g>
+  <g id="text_26">
+   <text style="font-weight: 700; font-size: 21px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #172e3d" x="34.56" y="40.256719" transform="rotate(-0 34.56 40.256719)">F06  Diagnosed patients already see clinicians twice as often</text>
+  </g>
+  <g id="text_27">
+   <text style="font-size: 14px; font-family: 'DejaVu Sans'; text-anchor: start; fill: #556b7a" x="34.56" y="71.387812" transform="rotate(-0 34.56 71.387812)">Anemia, symptom and chronic-condition segments average 15-23 office visits vs 7 for all adults</text>
+  </g>
+  <g id="text_28">
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556b7a" transform="translate(34.56 452.267344)">Source: MEPS 2023 full-year consolidated (HC-251) + medical conditions (HC-249), AHRQ; person weights.</text>
+   <text style="font-size: 10.5px; font-family: 'DejaVu Sans'; fill: #556b7a" transform="translate(34.56 466.967344)">* n &lt; 100: interpret with caution. Conditions are 3-digit ICD-10 codes (D50/D64, N92, Z34, R53/R42/L65, N18, I50).</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p38166fdf69">
+   <rect x="293.76" y="92.34" width="501.12" height="296.46"/>
+  </clipPath>
+ </defs>
+</svg>
